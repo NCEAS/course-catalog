@@ -3,7 +3,7 @@ title: "Creating your personal website using Quarto"
 description: "step-by-step instructions for building & deploying a Quarto website"
 author: "MEDS"
 #date: "2024-02-13"
-categories: [MEDS, module, document, Quarto, Quarto-websites]
+categories: [MEDS, module, instructional-document, Quarto, Quarto-websites]
 #image: "image.jpg"
 ---
 

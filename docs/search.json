@@ -28,127 +28,134 @@
     "text": "Why another website?\nTo be frank, we wanted to avoid yet another website – we discussed (and even tried out) a few alternative ideas including a GitHub repo README, a Google Sheet, a Google Doc, etc. None of those options provided us with quite the flexibility we were looking for (primarily, tagging / filtering materials by topic). After many conversations about not building a website, we decided that a Quarto blog might actually be a solid, easily maintainable option. Quarto has become a true powerhouse of a tool for data science educators, and we all are avid users in our day-to-day operations. We’re giving it a shot, for now, and may modify our approach to material consolidation as time goes on."
   },
   {
-    "objectID": "posts/MEDS-customizing-quarto-websites/index.html",
-    "href": "posts/MEDS-customizing-quarto-websites/index.html",
+    "objectID": "about.html#contributing",
+    "href": "about.html#contributing",
+    "title": "Welcome to the NCEAS Course Catalog!",
+    "section": "Contributing",
+    "text": "Contributing\nContributing guidelines can be found on this repository’s Wiki."
+  },
+  {
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html",
     "title": "Customizing Quarto Websites",
     "section": "",
     "text": "slides &  source code"
   },
   {
-    "objectID": "posts/MEDS-customizing-quarto-websites/index.html#workshop-materials",
-    "href": "posts/MEDS-customizing-quarto-websites/index.html#workshop-materials",
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
     "title": "Customizing Quarto Websites",
     "section": "",
     "text": "slides &  source code"
   },
   {
-    "objectID": "posts/MEDS-customizing-quarto-websites/index.html#abstract",
-    "href": "posts/MEDS-customizing-quarto-websites/index.html#abstract",
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
     "title": "Customizing Quarto Websites",
     "section": "Abstract",
     "text": "Abstract\nQuarto provides a user-friendly framework for creating your personal website – but adding your own creative touch can help make yours stand out from the rest. In this workshop, we learn how to (a) add a template to our landing page and update the _quarto.yml file to quickly add fun features / update the overall layout of our website, (b) create a stylesheet and define Sass variables to start modifying the theme (colors, fonts, etc) of our site, and (c) define CSS rules to make fine-tuned adjustments to our site’s appearance."
   },
   {
-    "objectID": "posts/MEDS-shiny/index.html",
-    "href": "posts/MEDS-shiny/index.html",
+    "objectID": "materials/MEDS-shiny/index.html",
+    "href": "materials/MEDS-shiny/index.html",
     "title": "Intro to Shiny (EDS 430)",
     "section": "",
     "text": "course website &  source code"
   },
   {
-    "objectID": "posts/MEDS-shiny/index.html#workshop-materials",
-    "href": "posts/MEDS-shiny/index.html#workshop-materials",
+    "objectID": "materials/MEDS-shiny/index.html#workshop-materials",
+    "href": "materials/MEDS-shiny/index.html#workshop-materials",
     "title": "Intro to Shiny (EDS 430)",
     "section": "",
     "text": "course website &  source code"
   },
   {
-    "objectID": "posts/MEDS-shiny/index.html#abstract",
-    "href": "posts/MEDS-shiny/index.html#abstract",
+    "objectID": "materials/MEDS-shiny/index.html#abstract",
+    "href": "materials/MEDS-shiny/index.html#abstract",
     "title": "Intro to Shiny (EDS 430)",
     "section": "Abstract",
     "text": "Abstract\nEDS 430 - Intro to Shiny is a 1-unit, 2-day, hands-on coding workshop, offered through the Bren School of Environmental Science & Management, in partnership with the National Center for Ecological Analysis & Synthesis.\nIn this workshop, students will learn how to build and deploy Shiny applications. The {shiny} package provides a framework that allows R users to build interactive web applications and dashboards, and has become a popular tool for sharing data analyses and data-derived outputs with broad audiences. In this two-part short course, students will learn the fundamentals of reactivity, how to customize an application user interface (UI), best practices and workflows for developing shiny apps, and how to deploy their apps online via RStudio’s hosting service, shinyapps.io."
   },
   {
-    "objectID": "posts/MEDS-build-quarto-websites/index.html",
-    "href": "posts/MEDS-build-quarto-websites/index.html",
+    "objectID": "materials/MEDS-build-quarto-websites/index.html",
+    "href": "materials/MEDS-build-quarto-websites/index.html",
     "title": "Creating your personal website using Quarto",
     "section": "",
     "text": "instructional documentation &  source code"
   },
   {
-    "objectID": "posts/MEDS-build-quarto-websites/index.html#materials",
-    "href": "posts/MEDS-build-quarto-websites/index.html#materials",
+    "objectID": "materials/MEDS-build-quarto-websites/index.html#materials",
+    "href": "materials/MEDS-build-quarto-websites/index.html#materials",
     "title": "Creating your personal website using Quarto",
     "section": "",
     "text": "instructional documentation &  source code"
   },
   {
-    "objectID": "posts/MEDS-build-quarto-websites/index.html#abstract",
-    "href": "posts/MEDS-build-quarto-websites/index.html#abstract",
+    "objectID": "materials/MEDS-build-quarto-websites/index.html#abstract",
+    "href": "materials/MEDS-build-quarto-websites/index.html#abstract",
     "title": "Creating your personal website using Quarto",
     "section": "Abstract",
     "text": "Abstract\nA personal website is not only a great way to showcase your experiences and skills, but also gives people (potential employers included!) a better sense of who you are as a person. There are lots of great ways to build websites using R (e.g. {distill}, {blogdown}) – this workshop uses Quarto, an exciting, new(ish), and versatile publishing tool that supports R, Python, Julia, and ObservableJS."
   },
   {
-    "objectID": "posts/MEDS-data-viz/index.html",
-    "href": "posts/MEDS-data-viz/index.html",
+    "objectID": "materials/MEDS-data-viz/index.html",
+    "href": "materials/MEDS-data-viz/index.html",
     "title": "Data Visualization & Communication (EDS 240)",
     "section": "",
     "text": "course website &  source code"
   },
   {
-    "objectID": "posts/MEDS-data-viz/index.html#workshop-materials",
-    "href": "posts/MEDS-data-viz/index.html#workshop-materials",
+    "objectID": "materials/MEDS-data-viz/index.html#workshop-materials",
+    "href": "materials/MEDS-data-viz/index.html#workshop-materials",
     "title": "Data Visualization & Communication (EDS 240)",
     "section": "",
     "text": "course website &  source code"
   },
   {
-    "objectID": "posts/MEDS-data-viz/index.html#abstract",
-    "href": "posts/MEDS-data-viz/index.html#abstract",
+    "objectID": "materials/MEDS-data-viz/index.html#abstract",
+    "href": "materials/MEDS-data-viz/index.html#abstract",
     "title": "Data Visualization & Communication (EDS 240)",
     "section": "Abstract",
     "text": "Abstract\nEffectively communicating your work in a responsible, accessible and visually-pleasing way is often (if not, always) a central part of data science. This course will focus on the basic principles for effective communication through data visualization and using technical tools and workflows for creating and sharing data visualizations with diverse audiences.\nBy the end of this course, learners should be able to:\n\nIdentify which types of visualizations are most appropriate for your data and your audience\nPrepare (e.g. clean, explore, wrangle) data so that it’s appropriately formatted for building data visualizations\nBuild effective, responsible, accessible, and aesthetically-pleasing, visualizations using the R programming language, and specifically {ggplot2} + ggplot2 extension packages\nWrite code from scratch and read and adapt code written by others\nApply a DEI (Diversity, Equity & Inclusion) lens to the process of designing data visualizations\nAssess, critique, and provide constructive feedback on data visualizations"
   },
   {
-    "objectID": "posts/MEDS-keyboard-shortcuts/index.html",
-    "href": "posts/MEDS-keyboard-shortcuts/index.html",
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html",
     "title": "IDE Tips & Tricks / Keyboard Shortcuts",
     "section": "",
     "text": "Wiki article"
   },
   {
-    "objectID": "posts/MEDS-keyboard-shortcuts/index.html#workshop-materials",
-    "href": "posts/MEDS-keyboard-shortcuts/index.html#workshop-materials",
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
     "title": "IDE Tips & Tricks / Keyboard Shortcuts",
     "section": "",
     "text": "Wiki article"
   },
   {
-    "objectID": "posts/MEDS-keyboard-shortcuts/index.html#abstract",
-    "href": "posts/MEDS-keyboard-shortcuts/index.html#abstract",
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
     "title": "IDE Tips & Tricks / Keyboard Shortcuts",
     "section": "Abstract",
     "text": "Abstract\nAs environmental data scientists, we spend a lot of time writing code in different IDEs (Integrated Development Environments), like RStudio, VSCode, and Jupyter Notebooks via Anaconda Navigator. Taking some time to learn keyboard shortcuts (and customization tips) can make you a more efficient (and happier) hacker!\n\nNote:\nIt became clear after two cohorts of MEDS students that delivering tons of shortcut all at once (in the from of an hour-long workshop; see slides) was not particularly helpful or effective (learners forget quickly because they aren’t given the time to practice all these keyboard shortcuts).\nStarting with MEDS Summer Session 2023, we began presenting this information in the form of “Keyboard shortcut(s) of the week” – this was seemingly well-received!"
   },
   {
-    "objectID": "posts/MEDS-quarto-blogs/index.html",
-    "href": "posts/MEDS-quarto-blogs/index.html",
+    "objectID": "materials/MEDS-quarto-blogs/index.html",
+    "href": "materials/MEDS-quarto-blogs/index.html",
     "title": "Adding a blog to your existing Quarto website",
     "section": "",
     "text": "blog post &  source code"
   },
   {
-    "objectID": "posts/MEDS-quarto-blogs/index.html#workshop-materials",
-    "href": "posts/MEDS-quarto-blogs/index.html#workshop-materials",
+    "objectID": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
+    "href": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
     "title": "Adding a blog to your existing Quarto website",
     "section": "",
     "text": "blog post &  source code"
   },
   {
-    "objectID": "posts/MEDS-quarto-blogs/index.html#abstract",
-    "href": "posts/MEDS-quarto-blogs/index.html#abstract",
+    "objectID": "materials/MEDS-quarto-blogs/index.html#abstract",
+    "href": "materials/MEDS-quarto-blogs/index.html#abstract",
     "title": "Adding a blog to your existing Quarto website",
     "section": "Abstract",
     "text": "Abstract\nBlogging about your data science adventures has a lot of benefits – it can help you to build your online profile/portfolio, practice your writing and communication skills, stay atop data science trends, solicit feedback from the community, network, learn new skills and/or solidify understanding, combat imposter syndrome, etc. In this workshop, we’ll learn how to add a blog to our Quarto website, customize posts, and (hopefully) get inspired to begin our blogging journeys!"
@@ -158,6 +165,6 @@
     "href": "index.html",
     "title": "Data Science Training Material Catalog",
     "section": "",
-    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\nmodule: content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons \nshort course: content that is delivered across multiple (2-5) days\ncourse: content for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualizations\n\n\nR\n\n\nggplot2\n\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ndocument\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIntro to Shiny (EDS 430)\n\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\nNo matching items"
+    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\nmodule: content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons \nshort course: content that is delivered across multiple (2-5) days\ncourse: content for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIntro to Shiny (EDS 430)\n\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\nNo matching items"
   }
 ]

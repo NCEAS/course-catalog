@@ -2,12 +2,12 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/MEDS-data-viz/index.html",
-      "/posts/MEDS-build-quarto-websites/index.html",
-      "/posts/MEDS-keyboard-shortcuts/index.html",
-      "/posts/MEDS-shiny/index.html",
-      "/posts/MEDS-quarto-blogs/index.html",
-      "/posts/MEDS-customizing-quarto-websites/index.html"
+      "/materials/MEDS-data-viz/index.html",
+      "/materials/MEDS-build-quarto-websites/index.html",
+      "/materials/MEDS-keyboard-shortcuts/index.html",
+      "/materials/MEDS-shiny/index.html",
+      "/materials/MEDS-quarto-blogs/index.html",
+      "/materials/MEDS-customizing-quarto-websites/index.html"
     ]
   }
 ]

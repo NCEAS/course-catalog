@@ -66,3 +66,6 @@ The [**Long-Term Ecological Research Network**](https://lternet.edu/) (LTER) is 
 
 To be frank, we wanted to avoid *yet another* website -- we discussed (and even tried out) a few alternative ideas including a GitHub repo README, a Google Sheet, a Google Doc, etc. None of those options provided us with quite the flexibility we were looking for (primarily, tagging / filtering materials by topic). After many conversations about *not* building a website, we decided that a [Quarto](https://quarto.org/) blog might actually be a solid, easily maintainable option. Quarto has become a true powerhouse of a tool for data science educators, and we all are avid users in our day-to-day operations. We're giving it a shot, for now, and may modify our approach to material consolidation as time goes on.
 
+## Contributing
+
+Contributing guidelines can be found on this repository's [Wiki](https://github.com/NCEAS/course-catalog/wiki).

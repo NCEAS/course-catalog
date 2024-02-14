@@ -3,7 +3,7 @@ title: "Data Visualization & Communication (EDS 240)"
 description: "a 4-unit graduate-level course taught at the Bren School for Environmental Science & Management"
 author: "MEDS"
 #date: "2024-02-13"
-categories: [MEDS, course, website, slides, data-visualizations, R, ggplot2]
+categories: [MEDS, course, website, slides, data-visualization, R, ggplot2]
 #image: "image.jpg"
 ---
 
