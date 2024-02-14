@@ -1,0 +1,21 @@
+---
+title: "Customizing Quarto Websites"
+description: "make your website stand out using Sass & CSS"
+author: "MEDS"
+#date: "2024-02-13"
+categories: [MEDS, workshop, slides, Quarto, Quarto-websites, HTML, CSS-Sass]
+#image: "image.jpg"
+---
+
+## Workshop Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa tv title="A monitor" >}} slides](https://ucsb-meds.github.io/customizing-quarto-websites/#/title-slide){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/UCSB-MEDS/customizing-quarto-websites){target="_blank"}
+:::
+
+## Abstract
+
+Quarto provides a user-friendly framework for creating your personal website – but adding your own creative touch can help make yours stand out from the rest. In this workshop, we learn how to (a) add a template to our landing page and update the `_quarto.yml` file to quickly add fun features / update the overall layout of our website, (b) create a stylesheet and define Sass variables to start modifying the theme (colors, fonts, etc) of our site, and (c) define CSS rules to make fine-tuned adjustments to our site’s appearance.
+

@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "NCEAS Course Catalog"
+ 
+  navbar:
+    right:
+      - text: About
+        href: about.qmd
+      - icon: github
+        href: https://github.com/NCEAS/course-catalog
+        target: _blank
+  
+  page-footer:
+    right: This website is built with [{{< fa brands github title="the github octocat logo" >}}](https://github.com/NCEAS/course-catalog) and [Quarto](https://quarto.org/)
+    # left: |
+    #   <img src="images/nceas-logo.png" alt="The National Center for Ecological Analysis & Synthesis logo" width="250"/>
+
+format:
+  html:
+    page-layout: full
+    theme: 
+      # - cosmo
+      - styles.scss
+
+
+

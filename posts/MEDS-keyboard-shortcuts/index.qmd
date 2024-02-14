@@ -1,0 +1,26 @@
+---
+title: "IDE Tips & Tricks / Keyboard Shortcuts"
+description: "make your website stand out using Sass & CSS"
+author: "MEDS"
+#date: "2024-02-13"
+categories: [MEDS, wiki, tips-tricks, keyboard-shortcuts, RStudio, Jupyter-Notebooks, command-line]
+#image: "image.jpg"
+---
+
+## Workshop Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa brands github title="The GitHub octocat icon" >}} Wiki article](https://github.com/UCSB-MEDS/IDE-tips-and-tricks/wiki/Updated-Approach-for-Delivering-IDE-Tips-&-Tricks---Keyboard-Shortcuts){target="_blank"}
+:::
+
+## Abstract
+
+As environmental data scientists, we spend a lot of time writing code in different IDEs (Integrated Development Environments), like RStudio, VSCode, and Jupyter Notebooks via Anaconda Navigator. Taking some time to learn keyboard shortcuts (and customization tips) can make you a more efficient (and happier) hacker!
+
+### Note:
+
+It became clear after two cohorts of MEDS students that delivering tons of shortcut all at once (in the from of an hour-long workshop; see [slides](https://ucsb-meds.github.io/IDE-tips-and-tricks/#/title-slide)) was not particularly helpful or effective (learners forget quickly because they aren't given the time to practice all these keyboard shortcuts).
+
+Starting with MEDS Summer Session 2023, we began presenting this information in the form of "Keyboard shortcut(s) of the week" -- this was seemingly well-received! 

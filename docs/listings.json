@@ -1,0 +1,13 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/MEDS-data-viz/index.html",
+      "/posts/MEDS-build-quarto-websites/index.html",
+      "/posts/MEDS-keyboard-shortcuts/index.html",
+      "/posts/MEDS-shiny/index.html",
+      "/posts/MEDS-quarto-blogs/index.html",
+      "/posts/MEDS-customizing-quarto-websites/index.html"
+    ]
+  }
+]

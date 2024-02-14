@@ -1,0 +1,92 @@
+// import fonts
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+// Quicksand: https://fonts.google.com/specimen/Quicksand?preview.text=Welcome%20to%20the%20NCEAS%20Course%20Catalog!&stroke=Sans+Serif
+// Outfit: https://fonts.google.com/specimen/Outfit?preview.text=Welcome%20to%20the%20NCEAS%20Course%20Catalog!&stroke=Sans+Serif
+
+/*-- scss:defaults --*/
+
+// colors
+$green: #0D654F;
+$light-green: #589244; 
+$beige: #F2F1EF;
+$black: #3E3737; 
+$yellow: #E9A300;
+//$red: #A23601;
+//$white: #FFFFFF;
+//$off-white: #F7F7F7; 
+//$light-gray: #F8F9FA;
+//$gray: #ADADAD;
+
+// fonts
+$font-family-sans-serif: 'Quicksand', sans-serf; 
+
+// quarto sass variables
+$navbar-bg: $beige;
+$navbar-fg: $green;
+$navbar-hl: $light-green;
+$body-color: $black;
+$footer-bg: $beige;
+$link-color: $light-green;
+
+/*-- scss:rules --*/
+
+body {
+  line-height: 1.5; 
+  font-size: 21px;
+  font-weight: 500;
+}
+
+// header font & color
+h1, h2, h3, h4 {
+  color: $green;
+  font-weight: 700;
+}
+
+// line styling beneath h2 element
+h2 {
+  border-bottom: 3px solid $yellow;
+  padding-bottom: 0.5rem;
+}
+
+// title size
+.title {
+  font-size: 2em;
+}
+
+// yellow background
+.yellow-bg {
+  background-color: rgb(249,229,192); 
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-right: 5px;
+  padding-left: 8px;
+  border-radius: 15px;
+}
+
+// center align text
+.center-text {
+  text-align: center;
+  left: 50%;
+}
+
+// btn styling
+.btn {
+  color: $green;
+  background-color: $white;
+  border-color: $green;
+}
+
+// button hover styling
+.btn:hover {
+  color: $light-green;
+  background-color: $white;
+  border-color: $light-green;
+}
+
+// L body text
+.body-text-l {
+  font-size: 25px;
+	line-height: 1.7em;
+	margin-bottom: 1em;
+}

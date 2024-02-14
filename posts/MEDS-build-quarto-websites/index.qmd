@@ -1,0 +1,20 @@
+---
+title: "Creating your personal website using Quarto"
+description: "step-by-step instructions for building & deploying a Quarto website"
+author: "MEDS"
+#date: "2024-02-13"
+categories: [MEDS, workshop, document, Quarto, Quarto-websites]
+#image: "image.jpg"
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation](https://ucsb-meds.github.io/creating-quarto-websites/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/UCSB-MEDS/creating-quarto-websites){target="_blank"}
+:::
+
+## Abstract
+
+A personal website is not only a great way to showcase your experiences and skills, but also gives people (potential employers included!) a better sense of who you are as a person. There are lots of great ways to build websites using R (e.g. `{distill}`, `{blogdown}`) – this workshop uses [Quarto](https://quarto.org/), an exciting, new(ish), and versatile publishing tool that supports R, Python, Julia, and ObservableJS.
