@@ -17,7 +17,8 @@ title-block-banner: true
 **Filter materials using the *Categories* on the right. Some helpful definitions:** 
 :::
 
-- [workshop](#category=workshop): content that can be delivered in a short, 1-2 hour-long session
+- [module](#category=module): content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons
+<!-- - [workshop](#category=workshop): content that can be delivered in a short, 1-2 hour-long session -->
 - [short course](#category=short-course): content that is delivered across multiple (2-5) days
 - [course](#category=course): content for a quarter- or semester-long academic course
 :::

@@ -3,7 +3,7 @@ title: "Customizing Quarto Websites"
 description: "make your website stand out using Sass & CSS"
 author: "MEDS"
 #date: "2024-02-13"
-categories: [MEDS, workshop, slides, Quarto, Quarto-websites, HTML, CSS-Sass]
+categories: [MEDS, module, slides, Quarto, Quarto-websites, HTML, CSS-Sass]
 #image: "image.jpg"
 ---
 

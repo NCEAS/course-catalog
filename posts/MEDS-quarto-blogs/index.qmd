@@ -3,7 +3,7 @@ title: "Adding a blog to your existing Quarto website"
 description: "Got a Quarto website, but no blog? We can fix that!"
 author: "MEDS"
 #date: "2024-02-13"
-categories: [MEDS, workshop, blog-post, Quarto, Quarto-websites]
+categories: [MEDS, module, blog-post, Quarto, Quarto-websites]
 #image: "image.jpg"
 ---
 
