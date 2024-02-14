@@ -3,6 +3,7 @@
     "listing": "/index.html",
     "items": [
       "/materials/MEDS-data-viz/index.html",
+      "/materials/MEDS-google/index.html",
       "/materials/MEDS-build-quarto-websites/index.html",
       "/materials/MEDS-keyboard-shortcuts/index.html",
       "/materials/MEDS-shiny/index.html",

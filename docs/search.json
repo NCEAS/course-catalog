@@ -119,6 +119,27 @@
     "text": "Abstract\nEffectively communicating your work in a responsible, accessible and visually-pleasing way is often (if not, always) a central part of data science. This course will focus on the basic principles for effective communication through data visualization and using technical tools and workflows for creating and sharing data visualizations with diverse audiences.\nBy the end of this course, learners should be able to:\n\nIdentify which types of visualizations are most appropriate for your data and your audience\nPrepare (e.g. clean, explore, wrangle) data so that it’s appropriately formatted for building data visualizations\nBuild effective, responsible, accessible, and aesthetically-pleasing, visualizations using the R programming language, and specifically {ggplot2} + ggplot2 extension packages\nWrite code from scratch and read and adapt code written by others\nApply a DEI (Diversity, Equity & Inclusion) lens to the process of designing data visualizations\nAssess, critique, and provide constructive feedback on data visualizations"
   },
   {
+    "objectID": "materials/MEDS-google/index.html",
+    "href": "materials/MEDS-google/index.html",
+    "title": "Teach Me How to Google",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-google/index.html#materials",
+    "href": "materials/MEDS-google/index.html#materials",
+    "title": "Teach Me How to Google",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-google/index.html#abstract",
+    "href": "materials/MEDS-google/index.html#abstract",
+    "title": "Teach Me How to Google",
+    "section": "Abstract",
+    "text": "Abstract\nGoogling for code help is something that all data scientists (at all career stages) do. But figuring out how to get the information you need back can be incredibly challenging, particularly for new coders. In this workshop, we’ll discuss strategies for refining your queries to increase your chances of finding informative solutions."
+  },
+  {
     "objectID": "materials/MEDS-keyboard-shortcuts/index.html",
     "href": "materials/MEDS-keyboard-shortcuts/index.html",
     "title": "IDE Tips & Tricks / Keyboard Shortcuts",
@@ -165,6 +186,6 @@
     "href": "index.html",
     "title": "Data Science Training Material Catalog",
     "section": "",
-    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\nmodule: content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons \nshort course: content that is delivered across multiple (2-5) days\ncourse: content for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIntro to Shiny (EDS 430)\n\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\nNo matching items"
+    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\nmodule: content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons \nshort course: content that is delivered across multiple (2-5) days\ncourse: content for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nTeach Me How to Google\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nGoogle\n\n\ncode-help\n\n\ntroubleshooting\n\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nIntro to Shiny (EDS 430)\n\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n  \n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\n\nMEDS\n\n\n\n\n\n\nNo matching items"
   }
 ]
