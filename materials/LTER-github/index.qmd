@@ -2,7 +2,7 @@
 title: "Collaborative Coding with GitHub"
 description: "Use version control to efficiently work together on synthesis projects"
 author: "LTER"
-categories: [LTER, version-control, github]
+categories: [LTER, workshop, version-control, GitHub, RStudio]
 #image: "image.jpg"
 ---
 
