@@ -1,0 +1,23 @@
+---
+title: "Shiny Apps for Sharing Science"
+description: "Engage with the fundamentals of R Shiny using RStudio"
+author: "LTER"
+categories: [LTER, workshop, shiny, R]
+---
+
+## Workshop Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://njlyon0.github.io/asm-2022_shiny-workshop/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/njlyon0/asm-2022_shiny-workshop-examples){target="_blank"}
+
+
+[{{< fa file-lines title="A file with text" >}} example app scripts ](https://github.com/njlyon0/asm-2022_shiny-workshop-examples){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} example source code](https://github.com/njlyon0/asm-2022_shiny-workshop-examples){target="_blank"}
+
+:::
+
+## Abstract
+
+Interactive workshop on the fundamentals of R Shiny created for the 2022 LTER All Scientists' Meeting (ASM).
+
