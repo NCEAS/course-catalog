@@ -1,0 +1,19 @@
+---
+title: "Collaborative Coding with GitHub"
+description: "Use version control to efficiently work together on synthesis projects"
+author: "LTER"
+categories: [LTER, version-control, github]
+#image: "image.jpg"
+---
+
+## Workshop Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://nceas.github.io/scicomp-workshop-collaborative-coding/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/scicomp-workshop-collaborative-coding){target="_blank"}
+:::
+
+## Abstract
+
+This workshop provides an overview of what "version control" systems are and how they fit into collaborative coding within your team. Specifically, we are focusing here on an introductory approach to version control that focuses on using Git via RStudio and GitHub.
