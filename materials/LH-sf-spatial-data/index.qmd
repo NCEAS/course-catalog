@@ -1,0 +1,22 @@
+---
+title: "Using `sf` for Spatial Data"
+description: "Handling spatial data can be tricky. The `sf` package allows for integrating R spatial software with the `tidyverse` if desired"
+
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, spatial-data, sf, coordinate-reference-system, spatial-joins, data-visualization, leaflet, basemaps ]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/){target="_blank"}
+:::
+
+## Abstract
+
+
+The `sf` package in R implements simple features, a standard that describes how spatial geometry objects in the real world can be represented in computers. This lesson will walk you through using `sf` functions to work with spatial data and create extraordinary maps.
+

@@ -1,0 +1,20 @@
+---
+title: "Cleaning and Wrangling Data" 
+description: "Introduction to cleaning and wrangling data using `dplyr` and `tidyr` functions"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, dplyr, tidyr, data-wrangling, pipe-operator, select, filter, mutate, pivot_longer, pivot_wider, rename, group_by, summarize, arrange, separate, unite]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_08.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/clean-wrangle-data.qmd){target="_blank"}
+:::
+
+## Abstract
+
+In general, the data we get to work with is not in the format we need to do our analyses. The `dplyr` and `tidy` R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst.
+

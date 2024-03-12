@@ -1,0 +1,21 @@
+---
+title: "Creating Functions in R"
+description: "Soft introduction to writing functions in R. Live coding example"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, functions, documenting-functions, writing-functions-practice]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_15.html#r-functions){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/r-creating-functions.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+Functions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions.
+

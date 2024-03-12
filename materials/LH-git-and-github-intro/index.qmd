@@ -1,0 +1,21 @@
+---
+title: "Introduction to `Git` and GitHub"
+description: "Intro to `Git` and GitHub with motivating example and practice session using RStudio"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, version-control, git, GitHub, remote-repository, clone, git-on-existing-project, RStudio ]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_06.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/git-github-intro.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+Every file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, **version control**. Version control provides an organized and transparent way to track changes in code and additional files. `Git` is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the `Git` and GitHub workflow using RStudio.
+

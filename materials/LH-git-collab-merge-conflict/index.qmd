@@ -1,0 +1,22 @@
+---
+title: "Collaborating using `Git` and GitHub & Merge Conflicts"
+description: "How to work with `Git` and GitHub will a collaborator with practices without and with merge conglict"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, git-collaboration, merge-conflict, git-best-practices ]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_10.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/git-collab-merge-conflict.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+
+`Git` is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general.
+

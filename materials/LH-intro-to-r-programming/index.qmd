@@ -1,0 +1,19 @@
+---
+title: "Introduction to Programming in R using RStudio"
+description: "This lesson walks through the basic concepts of the R programming language"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, R, RStudio, console, r-script, data-types, data-structure, r-functions, help-page, subset-operator, error-messages]
+---
+
+## Materials
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_03.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/intro-r-programming.qmd){target="_blank"}
+:::
+
+## Abstract
+
+This lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science.
+

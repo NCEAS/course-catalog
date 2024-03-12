@@ -1,0 +1,21 @@
+---
+title: "Introduction to Data Visualization"
+description:  "Data visualization is a great tool to explore and communicate your data. Learn the basics of `ggplot2` and other data vis packages."
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, data-visualization, ggplot, leaflet]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_12.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/visualization-delta.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+`ggplot2` is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with `ggplot2` and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the `leaflet`  and `dt` packages to create interactive maps and tables.
+

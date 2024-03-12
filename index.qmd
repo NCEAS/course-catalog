@@ -11,16 +11,19 @@ page-layout: full
 title-block-banner: true
 ---
 
-::: {.yellow-bg}
-
-::: {.center-text}
-**Filter materials using the *Categories* on the right. Some helpful definitions:** 
+::: yellow-bg
+::: center-text
+**Filter materials using the *Categories* on the right. Some helpful definitions:**
 :::
 
-- [module](#category=module): content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons
-<!-- - [workshop](#category=workshop): content that can be delivered in a short, 1-2 hour-long session -->
-- [short course](#category=short-course): content that is delivered across multiple (2-5) days
-- [course](#category=course): content for a quarter- or semester-long academic course
+| Category | Definition |
+|----------|------------|
+|  [module](#category=module)| Content that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons.| 
+|  [short course](#category=short-course)  | content that is delivered across multiple (2-5) days. |
+| [course](#category=course)  | content for a quarter- or semester-long academic course  |
+
+ <!-- - [workshop](#category=workshop): content that can be delivered in a short, 1-2 hour-long session -->
+
 :::
 
 <br>

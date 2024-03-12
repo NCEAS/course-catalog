@@ -1,0 +1,26 @@
+---
+title: "Creating R Packages"
+description: "Package your work and share it. Creating your own package allows you to organize your code and data in a way that easily be shared and reused."
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, r-packages, package-testing, package-dependencies, package-documentation]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_15.html#r-packages){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/r-creating-packages.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+Most R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:
+
+- Mechanism to redistribute reusable code (even if just for yourself)
+- Mechanism to reproducibly document analysis and models and their results
+
+This lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit.
+

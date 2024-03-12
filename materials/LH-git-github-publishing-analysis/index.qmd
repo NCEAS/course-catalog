@@ -1,0 +1,21 @@
+---
+title: "Publishing to the Web using GitHub Pages"
+description: "Using GitHub pages to publish a document"
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, GitHub, GitHub-pages, website]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_11.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/git-github-publishing-analysis.qmd){target="_blank"}
+:::
+
+## Abstract
+
+
+Sharing your work with others in engaging ways is an important part of the scientific process. This lesson shows you how to turn a GitHub repository into a webpage to easily share your analysis, code, and writing with others.
+

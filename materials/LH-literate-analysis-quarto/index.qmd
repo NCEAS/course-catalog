@@ -1,0 +1,20 @@
+---
+title: "Literate Analysis with Quarto"
+description: "Combine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible."
+author: "Learning Hub"
+#date: "2024-02-13"
+categories: [LH, module, literate-programming, quarto, markdown, code-chink, quarto-file-paths, quarto-environment]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa file-lines title="A file with text" >}} instructional documentation example](https://learning.nceas.ucsb.edu/2023-10-coreR/session_04.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/nceas-training/blob/2023-10-coreR/materials/sections/r-intro-quarto.qmd){target="_blank"}
+:::
+
+## Abstract
+
+More often than not, computational analysis is written in a borderline incomprehensible way, even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code—making it possible to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives.
+
