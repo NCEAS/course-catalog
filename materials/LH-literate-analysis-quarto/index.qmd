@@ -3,7 +3,7 @@ title: "Literate Analysis with Quarto"
 description: "Combine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible."
 author: "Learning Hub"
 #date: "2024-02-13"
-categories: [LH, module, literate-programming, quarto, markdown, code-chink, quarto-file-paths, quarto-environment]
+categories: [LH, module, literate-programming, quarto, markdown, code-chunk, quarto-file-paths, quarto-environment]
 ---
 
 ## Materials
