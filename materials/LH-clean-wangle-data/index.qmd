@@ -3,7 +3,7 @@ title: "Cleaning and Wrangling Data"
 description: "Introduction to cleaning and wrangling data using `dplyr` and `tidyr` functions"
 author: "Learning Hub"
 #date: "2024-02-13"
-categories: [LH, module, R, dplyr, tidyr, data-wrangling]
+categories: [LH, module, R, data-wrangling, tidyverse]
 ---
 
 ## Materials
