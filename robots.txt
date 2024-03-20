@@ -1,0 +1,1 @@
+Sitemap: https://NCEAS.github.io/course-catalog/sitemap.xml
