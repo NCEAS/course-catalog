@@ -1,432 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science Training Material Catalog",
-    "section": "",
-    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\n\n\nCategory\nDefinition\n\n\n\n\nmodule\nContent that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons.\n\n\nshort course\ncontent that is delivered across multiple (2-5) days.\n\n\ncourse\ncontent for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ngit-collaboration\n\n\nmerge-conflict\n\n\ngit-best-practices\n\n\n\nHow to work with Git and GitHub will a collaborator with practices without and with merge conglict\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nspatial-data\n\n\nsf\n\n\ncoordinate-reference-system\n\n\nspatial-joins\n\n\ndata-visualization\n\n\nleaflet\n\n\nbasemaps\n\n\n\nHandling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Shiny (EDS 430)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ndata-visualization\n\n\nggplot\n\n\nleaflet\n\n\n\nData visualization is a great tool to explore and communicate your data. Learn the basics of ggplot2 and other data vis packages.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCoding in the Tidyverse\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\ntidyverse\n\n\nggplot2\n\n\ndata-visualization\n\n\ndata-wrangling\n\n\nR\n\n\n\nCover fundamental operations in the Tidyverse ecosystem of R packages\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nGitHub\n\n\nGitHub-pages\n\n\nwebsite\n\n\n\nUsing GitHub pages to publish a document\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\ndata-wrangling\n\n\ntidyverse\n\n\n\nIntroduction to cleaning and wrangling data using dplyr and tidyr functions\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\nRStudio\n\n\nconsole\n\n\nr-script\n\n\ndata-types\n\n\ndata-structure\n\n\nr-functions\n\n\nhelp-page\n\n\nsubset-operator\n\n\nerror-messages\n\n\n\nThis lesson walks through the basic concepts of the R programming language\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nliterate-programming\n\n\nquarto\n\n\nmarkdown\n\n\ncode-chunk\n\n\nquarto-file-paths\n\n\nquarto-environment\n\n\n\nCombine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nTeach Me How to Google\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nGoogle\n\n\ncode-help\n\n\ntroubleshooting\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Apps for Sharing Science\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nshiny\n\n\nR\n\n\n\nEngage with the fundamentals of R Shiny using RStudio\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nversion-control\n\n\ngit\n\n\nGitHub\n\n\nremote-repository\n\n\nclone\n\n\ngit-on-existing-project\n\n\nRStudio\n\n\n\nIntro to Git and GitHub with motivating example and practice session using RStudio\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nr-packages\n\n\npackage-testing\n\n\npackage-dependencies\n\n\npackage-documentation\n\n\n\nPackage your work and share it. Creating your own package allows you to organize your code and data in a way that easily be shared and reused.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Coding with GitHub\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nversion-control\n\n\nGitHub\n\n\nRStudio\n\n\n\nUse version control to efficiently work together on synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nfunctions\n\n\ndocumenting-functions\n\n\nwriting-functions-practice\n\n\n\nSoft introduction to writing functions in R. Live coding example\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\nMEDS\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "materials/MEDS-quarto-blogs/index.html",
-    "href": "materials/MEDS-quarto-blogs/index.html",
-    "title": "Adding a blog to your existing Quarto website",
-    "section": "",
-    "text": "blog post &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
-    "href": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
-    "title": "Adding a blog to your existing Quarto website",
-    "section": "",
-    "text": "blog post &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-quarto-blogs/index.html#abstract",
-    "href": "materials/MEDS-quarto-blogs/index.html#abstract",
-    "title": "Adding a blog to your existing Quarto website",
-    "section": "Abstract",
-    "text": "Abstract\nBlogging about your data science adventures has a lot of benefits – it can help you to build your online profile/portfolio, practice your writing and communication skills, stay atop data science trends, solicit feedback from the community, network, learn new skills and/or solidify understanding, combat imposter syndrome, etc. In this workshop, we’ll learn how to add a blog to our Quarto website, customize posts, and (hopefully) get inspired to begin our blogging journeys!"
-  },
-  {
-    "objectID": "materials/LTER-github/index.html",
-    "href": "materials/LTER-github/index.html",
-    "title": "Collaborative Coding with GitHub",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/LTER-github/index.html#workshop-materials",
-    "href": "materials/LTER-github/index.html#workshop-materials",
-    "title": "Collaborative Coding with GitHub",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/LTER-github/index.html#abstract",
-    "href": "materials/LTER-github/index.html#abstract",
-    "title": "Collaborative Coding with GitHub",
-    "section": "Abstract",
-    "text": "Abstract\nThis workshop provides an overview of what “version control” systems are and how they fit into collaborative coding within your team. Specifically, we are focusing here on an introductory approach to version control that focuses on using Git via RStudio and GitHub."
-  },
-  {
-    "objectID": "materials/LH-git-and-github-intro/index.html",
-    "href": "materials/LH-git-and-github-intro/index.html",
-    "title": "Introduction to Git and GitHub",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-and-github-intro/index.html#materials",
-    "href": "materials/LH-git-and-github-intro/index.html#materials",
-    "title": "Introduction to Git and GitHub",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-and-github-intro/index.html#abstract",
-    "href": "materials/LH-git-and-github-intro/index.html#abstract",
-    "title": "Introduction to Git and GitHub",
-    "section": "Abstract",
-    "text": "Abstract\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
-  },
-  {
-    "objectID": "materials/MEDS-google/index.html",
-    "href": "materials/MEDS-google/index.html",
-    "title": "Teach Me How to Google",
-    "section": "",
-    "text": "slides &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-google/index.html#materials",
-    "href": "materials/MEDS-google/index.html#materials",
-    "title": "Teach Me How to Google",
-    "section": "",
-    "text": "slides &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-google/index.html#abstract",
-    "href": "materials/MEDS-google/index.html#abstract",
-    "title": "Teach Me How to Google",
-    "section": "Abstract",
-    "text": "Abstract\nGoogling for code help is something that all data scientists (at all career stages) do. But figuring out how to get the information you need back can be incredibly challenging, particularly for new coders. In this workshop, we’ll discuss strategies for refining your queries to increase your chances of finding informative solutions."
-  },
-  {
-    "objectID": "materials/MEDS-build-quarto-websites/index.html",
-    "href": "materials/MEDS-build-quarto-websites/index.html",
-    "title": "Creating your personal website using Quarto",
-    "section": "",
-    "text": "instructional documentation &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-build-quarto-websites/index.html#materials",
-    "href": "materials/MEDS-build-quarto-websites/index.html#materials",
-    "title": "Creating your personal website using Quarto",
-    "section": "",
-    "text": "instructional documentation &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-build-quarto-websites/index.html#abstract",
-    "href": "materials/MEDS-build-quarto-websites/index.html#abstract",
-    "title": "Creating your personal website using Quarto",
-    "section": "Abstract",
-    "text": "Abstract\nA personal website is not only a great way to showcase your experiences and skills, but also gives people (potential employers included!) a better sense of who you are as a person. There are lots of great ways to build websites using R (e.g. {distill}, {blogdown}) – this workshop uses Quarto, an exciting, new(ish), and versatile publishing tool that supports R, Python, Julia, and ObservableJS."
-  },
-  {
-    "objectID": "materials/LH-clean-wangle-data/index.html",
-    "href": "materials/LH-clean-wangle-data/index.html",
-    "title": "Cleaning and Wrangling Data",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-clean-wangle-data/index.html#materials",
-    "href": "materials/LH-clean-wangle-data/index.html#materials",
-    "title": "Cleaning and Wrangling Data",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-clean-wangle-data/index.html#abstract",
-    "href": "materials/LH-clean-wangle-data/index.html#abstract",
-    "title": "Cleaning and Wrangling Data",
-    "section": "Abstract",
-    "text": "Abstract\nIn general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidy R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst."
-  },
-  {
-    "objectID": "materials/LTER-tidyverse/index.html",
-    "href": "materials/LTER-tidyverse/index.html",
-    "title": "Coding in the Tidyverse",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/LTER-tidyverse/index.html#workshop-materials",
-    "href": "materials/LTER-tidyverse/index.html#workshop-materials",
-    "title": "Coding in the Tidyverse",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/LTER-tidyverse/index.html#abstract",
-    "href": "materials/LTER-tidyverse/index.html#abstract",
-    "title": "Coding in the Tidyverse",
-    "section": "Abstract",
-    "text": "Abstract\nThis workshop provides an overview of many of the packages included in the Tidyverse suite of packages for the R programming language. The Tidyverse is a veritable universe of tools though that no single workshop could hope to cover so we are focusing here on an introductory approach that focuses primarily on some fundamentals to tidying data in R."
-  },
-  {
-    "objectID": "materials/MEDS-shiny/index.html",
-    "href": "materials/MEDS-shiny/index.html",
-    "title": "Intro to Shiny (EDS 430)",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-shiny/index.html#workshop-materials",
-    "href": "materials/MEDS-shiny/index.html#workshop-materials",
-    "title": "Intro to Shiny (EDS 430)",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-shiny/index.html#abstract",
-    "href": "materials/MEDS-shiny/index.html#abstract",
-    "title": "Intro to Shiny (EDS 430)",
-    "section": "Abstract",
-    "text": "Abstract\nEDS 430 - Intro to Shiny is a 1-unit, 2-day, hands-on coding workshop, offered through the Bren School of Environmental Science & Management, in partnership with the National Center for Ecological Analysis & Synthesis.\nIn this workshop, students will learn how to build and deploy Shiny applications. The {shiny} package provides a framework that allows R users to build interactive web applications and dashboards, and has become a popular tool for sharing data analyses and data-derived outputs with broad audiences. In this two-part short course, students will learn the fundamentals of reactivity, how to customize an application user interface (UI), best practices and workflows for developing shiny apps, and how to deploy their apps online via RStudio’s hosting service, shinyapps.io."
-  },
-  {
-    "objectID": "materials/LH-sf-spatial-data/index.html",
-    "href": "materials/LH-sf-spatial-data/index.html",
-    "title": "Using sf for Spatial Data",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-sf-spatial-data/index.html#materials",
-    "href": "materials/LH-sf-spatial-data/index.html#materials",
-    "title": "Using sf for Spatial Data",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-sf-spatial-data/index.html#abstract",
-    "href": "materials/LH-sf-spatial-data/index.html#abstract",
-    "title": "Using sf for Spatial Data",
-    "section": "Abstract",
-    "text": "Abstract\nThe sf package in R implements simple features, a standard that describes how spatial geometry objects in the real world can be represented in computers. This lesson will walk you through using sf functions to work with spatial data and create extraordinary maps."
-  },
-  {
-    "objectID": "materials/LH-git-collab-merge-conflict/index.html",
-    "href": "materials/LH-git-collab-merge-conflict/index.html",
-    "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-collab-merge-conflict/index.html#materials",
-    "href": "materials/LH-git-collab-merge-conflict/index.html#materials",
-    "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-collab-merge-conflict/index.html#abstract",
-    "href": "materials/LH-git-collab-merge-conflict/index.html#abstract",
-    "title": "Collaborating using Git and GitHub & Merge Conflicts",
-    "section": "Abstract",
-    "text": "Abstract\nGit is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general."
-  },
-  {
-    "objectID": "materials/MEDS-customizing-quarto-websites/index.html",
-    "href": "materials/MEDS-customizing-quarto-websites/index.html",
-    "title": "Customizing Quarto Websites",
-    "section": "",
-    "text": "slides &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
-    "href": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
-    "title": "Customizing Quarto Websites",
-    "section": "",
-    "text": "slides &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
-    "href": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
-    "title": "Customizing Quarto Websites",
-    "section": "Abstract",
-    "text": "Abstract\nQuarto provides a user-friendly framework for creating your personal website – but adding your own creative touch can help make yours stand out from the rest. In this workshop, we learn how to (a) add a template to our landing page and update the _quarto.yml file to quickly add fun features / update the overall layout of our website, (b) create a stylesheet and define Sass variables to start modifying the theme (colors, fonts, etc) of our site, and (c) define CSS rules to make fine-tuned adjustments to our site’s appearance."
-  },
-  {
-    "objectID": "materials/MEDS-keyboard-shortcuts/index.html",
-    "href": "materials/MEDS-keyboard-shortcuts/index.html",
-    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
-    "section": "",
-    "text": "Wiki article"
-  },
-  {
-    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
-    "href": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
-    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
-    "section": "",
-    "text": "Wiki article"
-  },
-  {
-    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
-    "href": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
-    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
-    "section": "Abstract",
-    "text": "Abstract\nAs environmental data scientists, we spend a lot of time writing code in different IDEs (Integrated Development Environments), like RStudio, VSCode, and Jupyter Notebooks via Anaconda Navigator. Taking some time to learn keyboard shortcuts (and customization tips) can make you a more efficient (and happier) hacker!\n\nNote:\nIt became clear after two cohorts of MEDS students that delivering tons of shortcut all at once (in the from of an hour-long workshop; see slides) was not particularly helpful or effective (learners forget quickly because they aren’t given the time to practice all these keyboard shortcuts).\nStarting with MEDS Summer Session 2023, we began presenting this information in the form of “Keyboard shortcut(s) of the week” – this was seemingly well-received!"
-  },
-  {
-    "objectID": "materials/MEDS-data-viz/index.html",
-    "href": "materials/MEDS-data-viz/index.html",
-    "title": "Data Visualization & Communication (EDS 240)",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-data-viz/index.html#workshop-materials",
-    "href": "materials/MEDS-data-viz/index.html#workshop-materials",
-    "title": "Data Visualization & Communication (EDS 240)",
-    "section": "",
-    "text": "course website &  source code"
-  },
-  {
-    "objectID": "materials/MEDS-data-viz/index.html#abstract",
-    "href": "materials/MEDS-data-viz/index.html#abstract",
-    "title": "Data Visualization & Communication (EDS 240)",
-    "section": "Abstract",
-    "text": "Abstract\nEffectively communicating your work in a responsible, accessible and visually-pleasing way is often (if not, always) a central part of data science. This course will focus on the basic principles for effective communication through data visualization and using technical tools and workflows for creating and sharing data visualizations with diverse audiences.\nBy the end of this course, learners should be able to:\n\nIdentify which types of visualizations are most appropriate for your data and your audience\nPrepare (e.g. clean, explore, wrangle) data so that it’s appropriately formatted for building data visualizations\nBuild effective, responsible, accessible, and aesthetically-pleasing, visualizations using the R programming language, and specifically {ggplot2} + ggplot2 extension packages\nWrite code from scratch and read and adapt code written by others\nApply a DEI (Diversity, Equity & Inclusion) lens to the process of designing data visualizations\nAssess, critique, and provide constructive feedback on data visualizations"
-  },
-  {
-    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html",
-    "href": "materials/LH-visualization-ggplot-leaflet/index.html",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html#materials",
-    "href": "materials/LH-visualization-ggplot-leaflet/index.html#materials",
-    "title": "Introduction to Data Visualization",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html#abstract",
-    "href": "materials/LH-visualization-ggplot-leaflet/index.html#abstract",
-    "title": "Introduction to Data Visualization",
-    "section": "Abstract",
-    "text": "Abstract\nggplot2 is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with ggplot2 and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the leaflet and dt packages to create interactive maps and tables."
-  },
-  {
-    "objectID": "materials/LH-git-github-publishing-analysis/index.html",
-    "href": "materials/LH-git-github-publishing-analysis/index.html",
-    "title": "Publishing to the Web using GitHub Pages",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-github-publishing-analysis/index.html#materials",
-    "href": "materials/LH-git-github-publishing-analysis/index.html#materials",
-    "title": "Publishing to the Web using GitHub Pages",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-git-github-publishing-analysis/index.html#abstract",
-    "href": "materials/LH-git-github-publishing-analysis/index.html#abstract",
-    "title": "Publishing to the Web using GitHub Pages",
-    "section": "Abstract",
-    "text": "Abstract\nSharing your work with others in engaging ways is an important part of the scientific process. This lesson shows you how to turn a GitHub repository into a webpage to easily share your analysis, code, and writing with others."
-  },
-  {
-    "objectID": "materials/LH-intro-to-r-programming/index.html",
-    "href": "materials/LH-intro-to-r-programming/index.html",
-    "title": "Introduction to Programming in R using RStudio",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-intro-to-r-programming/index.html#materials",
-    "href": "materials/LH-intro-to-r-programming/index.html#materials",
-    "title": "Introduction to Programming in R using RStudio",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-intro-to-r-programming/index.html#abstract",
-    "href": "materials/LH-intro-to-r-programming/index.html#abstract",
-    "title": "Introduction to Programming in R using RStudio",
-    "section": "Abstract",
-    "text": "Abstract\nThis lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science."
-  },
-  {
-    "objectID": "materials/LH-literate-analysis-quarto/index.html",
-    "href": "materials/LH-literate-analysis-quarto/index.html",
-    "title": "Literate Analysis with Quarto",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-literate-analysis-quarto/index.html#materials",
-    "href": "materials/LH-literate-analysis-quarto/index.html#materials",
-    "title": "Literate Analysis with Quarto",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-literate-analysis-quarto/index.html#abstract",
-    "href": "materials/LH-literate-analysis-quarto/index.html#abstract",
-    "title": "Literate Analysis with Quarto",
-    "section": "Abstract",
-    "text": "Abstract\nMore often than not, computational analysis is written in a borderline incomprehensible way, even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code—making it possible to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives."
-  },
-  {
-    "objectID": "materials/LTER-shiny/index.html",
-    "href": "materials/LTER-shiny/index.html",
-    "title": "Shiny Apps for Sharing Science",
-    "section": "",
-    "text": "course website &  source code\n example app scripts &  example source code"
-  },
-  {
-    "objectID": "materials/LTER-shiny/index.html#workshop-materials",
-    "href": "materials/LTER-shiny/index.html#workshop-materials",
-    "title": "Shiny Apps for Sharing Science",
-    "section": "",
-    "text": "course website &  source code\n example app scripts &  example source code"
-  },
-  {
-    "objectID": "materials/LTER-shiny/index.html#abstract",
-    "href": "materials/LTER-shiny/index.html#abstract",
-    "title": "Shiny Apps for Sharing Science",
-    "section": "Abstract",
-    "text": "Abstract\nInteractive workshop on the fundamentals of R Shiny created for the 2022 LTER All Scientists’ Meeting (ASM)."
-  },
-  {
-    "objectID": "materials/LH-r-creating-packages/index.html",
-    "href": "materials/LH-r-creating-packages/index.html",
-    "title": "Creating R Packages",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-r-creating-packages/index.html#materials",
-    "href": "materials/LH-r-creating-packages/index.html#materials",
-    "title": "Creating R Packages",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-r-creating-packages/index.html#abstract",
-    "href": "materials/LH-r-creating-packages/index.html#abstract",
-    "title": "Creating R Packages",
-    "section": "Abstract",
-    "text": "Abstract\nMost R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:\n\nMechanism to redistribute reusable code (even if just for yourself)\nMechanism to reproducibly document analysis and models and their results\n\nThis lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit."
-  },
-  {
-    "objectID": "materials/LH-r-creating-functions/index.html",
-    "href": "materials/LH-r-creating-functions/index.html",
-    "title": "Creating Functions in R",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-r-creating-functions/index.html#materials",
-    "href": "materials/LH-r-creating-functions/index.html#materials",
-    "title": "Creating Functions in R",
-    "section": "",
-    "text": "instructional documentation example &  source code"
-  },
-  {
-    "objectID": "materials/LH-r-creating-functions/index.html#abstract",
-    "href": "materials/LH-r-creating-functions/index.html#abstract",
-    "title": "Creating Functions in R",
-    "section": "Abstract",
-    "text": "Abstract\nFunctions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions."
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "Welcome to the NCEAS Course Catalog!",
@@ -460,5 +33,453 @@
     "title": "Welcome to the NCEAS Course Catalog!",
     "section": "Contributing",
     "text": "Contributing\nContributing guidelines can be found on this repository’s Wiki."
+  },
+  {
+    "objectID": "materials/LH-sf-spatial-data/index.html",
+    "href": "materials/LH-sf-spatial-data/index.html",
+    "title": "Using sf for Spatial Data",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-sf-spatial-data/index.html#materials",
+    "href": "materials/LH-sf-spatial-data/index.html#materials",
+    "title": "Using sf for Spatial Data",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-sf-spatial-data/index.html#abstract",
+    "href": "materials/LH-sf-spatial-data/index.html#abstract",
+    "title": "Using sf for Spatial Data",
+    "section": "Abstract",
+    "text": "Abstract\nThe sf package in R implements simple features, a standard that describes how spatial geometry objects in the real world can be represented in computers. This lesson will walk you through using sf functions to work with spatial data and create extraordinary maps."
+  },
+  {
+    "objectID": "materials/MEDS-build-quarto-websites/index.html",
+    "href": "materials/MEDS-build-quarto-websites/index.html",
+    "title": "Creating your personal website using Quarto",
+    "section": "",
+    "text": "instructional documentation &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-build-quarto-websites/index.html#materials",
+    "href": "materials/MEDS-build-quarto-websites/index.html#materials",
+    "title": "Creating your personal website using Quarto",
+    "section": "",
+    "text": "instructional documentation &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-build-quarto-websites/index.html#abstract",
+    "href": "materials/MEDS-build-quarto-websites/index.html#abstract",
+    "title": "Creating your personal website using Quarto",
+    "section": "Abstract",
+    "text": "Abstract\nA personal website is not only a great way to showcase your experiences and skills, but also gives people (potential employers included!) a better sense of who you are as a person. There are lots of great ways to build websites using R (e.g. {distill}, {blogdown}) – this workshop uses Quarto, an exciting, new(ish), and versatile publishing tool that supports R, Python, Julia, and ObservableJS."
+  },
+  {
+    "objectID": "materials/LH-intro-to-r-programming/index.html",
+    "href": "materials/LH-intro-to-r-programming/index.html",
+    "title": "Introduction to Programming in R using RStudio",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-intro-to-r-programming/index.html#materials",
+    "href": "materials/LH-intro-to-r-programming/index.html#materials",
+    "title": "Introduction to Programming in R using RStudio",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-intro-to-r-programming/index.html#abstract",
+    "href": "materials/LH-intro-to-r-programming/index.html#abstract",
+    "title": "Introduction to Programming in R using RStudio",
+    "section": "Abstract",
+    "text": "Abstract\nThis lesson is a gentle introduction to working with R using the RStudio interface. The goal is to become familiar with how the R language works as the starting point to learn more in-depth techniques to advance your science."
+  },
+  {
+    "objectID": "materials/MEDS-DS-portfolios/index.html",
+    "href": "materials/MEDS-DS-portfolios/index.html",
+    "title": "Data Science Tools for Building Professional Online Portfolios (EDS 296)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-DS-portfolios/index.html#workshop-materials",
+    "href": "materials/MEDS-DS-portfolios/index.html#workshop-materials",
+    "title": "Data Science Tools for Building Professional Online Portfolios (EDS 296)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-DS-portfolios/index.html#abstract",
+    "href": "materials/MEDS-DS-portfolios/index.html#abstract",
+    "title": "Data Science Tools for Building Professional Online Portfolios (EDS 296)",
+    "section": "Abstract",
+    "text": "Abstract\nHaving a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. In this course, you will:\n\nbegin developing your personal brand\nbuild and deploy your personal website using popular data science tools and frameworks\ncreate your first (of many!) data science blog posts\nlearn about how best to communicate your work to different audiences\nunderstand where and how to document your projects and code on GitHub\nand more!"
+  },
+  {
+    "objectID": "materials/LH-clean-wangle-data/index.html",
+    "href": "materials/LH-clean-wangle-data/index.html",
+    "title": "Cleaning and Wrangling Data",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-clean-wangle-data/index.html#materials",
+    "href": "materials/LH-clean-wangle-data/index.html#materials",
+    "title": "Cleaning and Wrangling Data",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-clean-wangle-data/index.html#abstract",
+    "href": "materials/LH-clean-wangle-data/index.html#abstract",
+    "title": "Cleaning and Wrangling Data",
+    "section": "Abstract",
+    "text": "Abstract\nIn general, the data we get to work with is not in the format we need to do our analyses. The dplyr and tidy R packages provide a fairly complete and extremely powerful set of functions for us to do this reformatting quickly. This lesson aims to provide tools for reformatting data to meet your analysis needs. Learning these tools well will significantly increase your efficiency as an analyst."
+  },
+  {
+    "objectID": "materials/LH-literate-analysis-quarto/index.html",
+    "href": "materials/LH-literate-analysis-quarto/index.html",
+    "title": "Literate Analysis with Quarto",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-literate-analysis-quarto/index.html#materials",
+    "href": "materials/LH-literate-analysis-quarto/index.html#materials",
+    "title": "Literate Analysis with Quarto",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-literate-analysis-quarto/index.html#abstract",
+    "href": "materials/LH-literate-analysis-quarto/index.html#abstract",
+    "title": "Literate Analysis with Quarto",
+    "section": "Abstract",
+    "text": "Abstract\nMore often than not, computational analysis is written in a borderline incomprehensible way, even to the person who originally wrote the code. Quarto is a tool that allows you to combine prose with code—making it possible to do analysis and write reports all in one place. This course introduces the concept of literate analysis and explores the main functionalities of a Quarto document combining R, the programming language, and markdown, a set of text formatting directives."
+  },
+  {
+    "objectID": "materials/MEDS-google/index.html",
+    "href": "materials/MEDS-google/index.html",
+    "title": "Teach Me How to Google",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-google/index.html#materials",
+    "href": "materials/MEDS-google/index.html#materials",
+    "title": "Teach Me How to Google",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-google/index.html#abstract",
+    "href": "materials/MEDS-google/index.html#abstract",
+    "title": "Teach Me How to Google",
+    "section": "Abstract",
+    "text": "Abstract\nGoogling for code help is something that all data scientists (at all career stages) do. But figuring out how to get the information you need back can be incredibly challenging, particularly for new coders. In this workshop, we’ll discuss strategies for refining your queries to increase your chances of finding informative solutions."
+  },
+  {
+    "objectID": "materials/MEDS-data-viz/index.html",
+    "href": "materials/MEDS-data-viz/index.html",
+    "title": "Data Visualization & Communication (EDS 240)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-data-viz/index.html#workshop-materials",
+    "href": "materials/MEDS-data-viz/index.html#workshop-materials",
+    "title": "Data Visualization & Communication (EDS 240)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-data-viz/index.html#abstract",
+    "href": "materials/MEDS-data-viz/index.html#abstract",
+    "title": "Data Visualization & Communication (EDS 240)",
+    "section": "Abstract",
+    "text": "Abstract\nEffectively communicating your work in a responsible, accessible and visually-pleasing way is often (if not, always) a central part of data science. This course will focus on the basic principles for effective communication through data visualization and using technical tools and workflows for creating and sharing data visualizations with diverse audiences.\nBy the end of this course, learners should be able to:\n\nIdentify which types of visualizations are most appropriate for your data and your audience\nPrepare (e.g. clean, explore, wrangle) data so that it’s appropriately formatted for building data visualizations\nBuild effective, responsible, accessible, and aesthetically-pleasing, visualizations using the R programming language, and specifically {ggplot2} + ggplot2 extension packages\nWrite code from scratch and read and adapt code written by others\nApply a DEI (Diversity, Equity & Inclusion) lens to the process of designing data visualizations\nAssess, critique, and provide constructive feedback on data visualizations"
+  },
+  {
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html",
+    "title": "Customizing Quarto Websites",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html#workshop-materials",
+    "title": "Customizing Quarto Websites",
+    "section": "",
+    "text": "slides &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
+    "href": "materials/MEDS-customizing-quarto-websites/index.html#abstract",
+    "title": "Customizing Quarto Websites",
+    "section": "Abstract",
+    "text": "Abstract\nQuarto provides a user-friendly framework for creating your personal website – but adding your own creative touch can help make yours stand out from the rest. In this workshop, we learn how to (a) add a template to our landing page and update the _quarto.yml file to quickly add fun features / update the overall layout of our website, (b) create a stylesheet and define Sass variables to start modifying the theme (colors, fonts, etc) of our site, and (c) define CSS rules to make fine-tuned adjustments to our site’s appearance."
+  },
+  {
+    "objectID": "materials/LTER-tidyverse/index.html",
+    "href": "materials/LTER-tidyverse/index.html",
+    "title": "Coding in the Tidyverse",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-tidyverse/index.html#workshop-materials",
+    "href": "materials/LTER-tidyverse/index.html#workshop-materials",
+    "title": "Coding in the Tidyverse",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-tidyverse/index.html#abstract",
+    "href": "materials/LTER-tidyverse/index.html#abstract",
+    "title": "Coding in the Tidyverse",
+    "section": "Abstract",
+    "text": "Abstract\nThis workshop provides an overview of many of the packages included in the Tidyverse suite of packages for the R programming language. The Tidyverse is a veritable universe of tools though that no single workshop could hope to cover so we are focusing here on an introductory approach that focuses primarily on some fundamentals to tidying data in R."
+  },
+  {
+    "objectID": "materials/LTER-github/index.html",
+    "href": "materials/LTER-github/index.html",
+    "title": "Collaborative Coding with GitHub",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-github/index.html#workshop-materials",
+    "href": "materials/LTER-github/index.html#workshop-materials",
+    "title": "Collaborative Coding with GitHub",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-github/index.html#abstract",
+    "href": "materials/LTER-github/index.html#abstract",
+    "title": "Collaborative Coding with GitHub",
+    "section": "Abstract",
+    "text": "Abstract\nThis workshop provides an overview of what “version control” systems are and how they fit into collaborative coding within your team. Specifically, we are focusing here on an introductory approach to version control that focuses on using Git via RStudio and GitHub."
+  },
+  {
+    "objectID": "materials/LH-r-creating-packages/index.html",
+    "href": "materials/LH-r-creating-packages/index.html",
+    "title": "Creating R Packages",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-r-creating-packages/index.html#materials",
+    "href": "materials/LH-r-creating-packages/index.html#materials",
+    "title": "Creating R Packages",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-r-creating-packages/index.html#abstract",
+    "href": "materials/LH-r-creating-packages/index.html#abstract",
+    "title": "Creating R Packages",
+    "section": "Abstract",
+    "text": "Abstract\nMost R users are familiar with loading and utilizing packages in their work but have never created a package of their own. Creating packages serves two main use cases:\n\nMechanism to redistribute reusable code (even if just for yourself)\nMechanism to reproducibly document analysis and models and their results\n\nThis lesson will walk you through a simple example of creating and documenting an R package. The goal is to demystify the complexity of this tool and encourage you and your collaborators to create a package as you see fit."
+  },
+  {
+    "objectID": "materials/LH-git-collab-merge-conflict/index.html",
+    "href": "materials/LH-git-collab-merge-conflict/index.html",
+    "title": "Collaborating using Git and GitHub & Merge Conflicts",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-collab-merge-conflict/index.html#materials",
+    "href": "materials/LH-git-collab-merge-conflict/index.html#materials",
+    "title": "Collaborating using Git and GitHub & Merge Conflicts",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-collab-merge-conflict/index.html#abstract",
+    "href": "materials/LH-git-collab-merge-conflict/index.html#abstract",
+    "title": "Collaborating using Git and GitHub & Merge Conflicts",
+    "section": "Abstract",
+    "text": "Abstract\nGit is a great tool for working independently, but even better for working with friends and colleagues. Git allows you to work on your local copy of files with the confidence that you can successfully synchronize your changes with the changes made by others. This lesson presents step-by-step how to start collaborating with colleagues and avoiding conflicts. It also walks you through what can cause a merge conflict, how to solve a merge conflict, and things to consider to avoid conflicts in general."
+  },
+  {
+    "objectID": "materials/LH-git-github-publishing-analysis/index.html",
+    "href": "materials/LH-git-github-publishing-analysis/index.html",
+    "title": "Publishing to the Web using GitHub Pages",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-github-publishing-analysis/index.html#materials",
+    "href": "materials/LH-git-github-publishing-analysis/index.html#materials",
+    "title": "Publishing to the Web using GitHub Pages",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-github-publishing-analysis/index.html#abstract",
+    "href": "materials/LH-git-github-publishing-analysis/index.html#abstract",
+    "title": "Publishing to the Web using GitHub Pages",
+    "section": "Abstract",
+    "text": "Abstract\nSharing your work with others in engaging ways is an important part of the scientific process. This lesson shows you how to turn a GitHub repository into a webpage to easily share your analysis, code, and writing with others."
+  },
+  {
+    "objectID": "materials/LH-git-and-github-intro/index.html",
+    "href": "materials/LH-git-and-github-intro/index.html",
+    "title": "Introduction to Git and GitHub",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-and-github-intro/index.html#materials",
+    "href": "materials/LH-git-and-github-intro/index.html#materials",
+    "title": "Introduction to Git and GitHub",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-git-and-github-intro/index.html#abstract",
+    "href": "materials/LH-git-and-github-intro/index.html#abstract",
+    "title": "Introduction to Git and GitHub",
+    "section": "Abstract",
+    "text": "Abstract\nEvery file in the scientific process changes. Manuscripts are edited. Figures get revised. Code gets fixed when bugs are discovered. These changes are essential to track, and yet, we often use simplistic filenames to track them. Is there a better way? YES, version control. Version control provides an organized and transparent way to track changes in code and additional files. Git is a version control software, and GitHub is a website that allows users to store their Git repositories and share them with others. This lesson is a friendly introduction to these tools. It explains the main concepts and walks you through the Git and GitHub workflow using RStudio."
+  },
+  {
+    "objectID": "materials/LH-r-creating-functions/index.html",
+    "href": "materials/LH-r-creating-functions/index.html",
+    "title": "Creating Functions in R",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-r-creating-functions/index.html#materials",
+    "href": "materials/LH-r-creating-functions/index.html#materials",
+    "title": "Creating Functions in R",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-r-creating-functions/index.html#abstract",
+    "href": "materials/LH-r-creating-functions/index.html#abstract",
+    "title": "Creating Functions in R",
+    "section": "Abstract",
+    "text": "Abstract\nFunctions allow you to break your code into small, reusable modules. In this lesson, we will review the advantages of coding with functions, practice creating some functions and show how to call them, and then do some exercises to build other simple functions."
+  },
+  {
+    "objectID": "materials/MEDS-shiny/index.html",
+    "href": "materials/MEDS-shiny/index.html",
+    "title": "Intro to Shiny (EDS 296)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-shiny/index.html#workshop-materials",
+    "href": "materials/MEDS-shiny/index.html#workshop-materials",
+    "title": "Intro to Shiny (EDS 296)",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-shiny/index.html#abstract",
+    "href": "materials/MEDS-shiny/index.html#abstract",
+    "title": "Intro to Shiny (EDS 296)",
+    "section": "Abstract",
+    "text": "Abstract\nEDS 296 - Intro to Shiny is a 2-unit, 2-day, hands-on coding workshop, offered through the Bren School of Environmental Science & Management, in partnership with the National Center for Ecological Analysis & Synthesis.\nIn this workshop, students will learn how to build and deploy Shiny applications. The {shiny} package provides a framework that allows R users to build interactive web applications and dashboards, and has become a popular tool for sharing data analyses and data-derived outputs with broad audiences. In this two-part short course, students will learn the fundamentals of reactivity, how to customize an application user interface (UI), best practices and workflows for developing shiny apps, and how to deploy their apps online via RStudio’s hosting service, shinyapps.io."
+  },
+  {
+    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html",
+    "href": "materials/LH-visualization-ggplot-leaflet/index.html",
+    "title": "Introduction to Data Visualization",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html#materials",
+    "href": "materials/LH-visualization-ggplot-leaflet/index.html#materials",
+    "title": "Introduction to Data Visualization",
+    "section": "",
+    "text": "instructional documentation example &  source code"
+  },
+  {
+    "objectID": "materials/LH-visualization-ggplot-leaflet/index.html#abstract",
+    "href": "materials/LH-visualization-ggplot-leaflet/index.html#abstract",
+    "title": "Introduction to Data Visualization",
+    "section": "Abstract",
+    "text": "Abstract\nggplot2 is a popular and powerful package for visualizing data in R. This lesson introduces you to the basic components of working with ggplot2 and inspires you to keep exploring the endless possibilities this package provides regarding data visualization. We also briefly introduce the leaflet and dt packages to create interactive maps and tables."
+  },
+  {
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html",
+    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
+    "section": "",
+    "text": "Wiki article"
+  },
+  {
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html#workshop-materials",
+    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
+    "section": "",
+    "text": "Wiki article"
+  },
+  {
+    "objectID": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
+    "href": "materials/MEDS-keyboard-shortcuts/index.html#abstract",
+    "title": "IDE Tips & Tricks / Keyboard Shortcuts",
+    "section": "Abstract",
+    "text": "Abstract\nAs environmental data scientists, we spend a lot of time writing code in different IDEs (Integrated Development Environments), like RStudio, VSCode, and Jupyter Notebooks via Anaconda Navigator. Taking some time to learn keyboard shortcuts (and customization tips) can make you a more efficient (and happier) hacker!\n\nNote:\nIt became clear after two cohorts of MEDS students that delivering tons of shortcut all at once (in the from of an hour-long workshop; see slides) was not particularly helpful or effective (learners forget quickly because they aren’t given the time to practice all these keyboard shortcuts).\nStarting with MEDS Summer Session 2023, we began presenting this information in the form of “Keyboard shortcut(s) of the week” – this was seemingly well-received!"
+  },
+  {
+    "objectID": "materials/MEDS-quarto-blogs/index.html",
+    "href": "materials/MEDS-quarto-blogs/index.html",
+    "title": "Adding a blog to your existing Quarto website",
+    "section": "",
+    "text": "blog post &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
+    "href": "materials/MEDS-quarto-blogs/index.html#workshop-materials",
+    "title": "Adding a blog to your existing Quarto website",
+    "section": "",
+    "text": "blog post &  source code"
+  },
+  {
+    "objectID": "materials/MEDS-quarto-blogs/index.html#abstract",
+    "href": "materials/MEDS-quarto-blogs/index.html#abstract",
+    "title": "Adding a blog to your existing Quarto website",
+    "section": "Abstract",
+    "text": "Abstract\nBlogging about your data science adventures has a lot of benefits – it can help you to build your online profile/portfolio, practice your writing and communication skills, stay atop data science trends, solicit feedback from the community, network, learn new skills and/or solidify understanding, combat imposter syndrome, etc. In this workshop, we’ll learn how to add a blog to our Quarto website, customize posts, and (hopefully) get inspired to begin our blogging journeys!"
+  },
+  {
+    "objectID": "materials/LTER-shiny/index.html",
+    "href": "materials/LTER-shiny/index.html",
+    "title": "Shiny Apps for Sharing Science",
+    "section": "",
+    "text": "course website &  source code\n example app scripts &  example source code"
+  },
+  {
+    "objectID": "materials/LTER-shiny/index.html#workshop-materials",
+    "href": "materials/LTER-shiny/index.html#workshop-materials",
+    "title": "Shiny Apps for Sharing Science",
+    "section": "",
+    "text": "course website &  source code\n example app scripts &  example source code"
+  },
+  {
+    "objectID": "materials/LTER-shiny/index.html#abstract",
+    "href": "materials/LTER-shiny/index.html#abstract",
+    "title": "Shiny Apps for Sharing Science",
+    "section": "Abstract",
+    "text": "Abstract\nInteractive workshop on the fundamentals of R Shiny created for the 2022 LTER All Scientists’ Meeting (ASM)."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science Training Material Catalog",
+    "section": "",
+    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\n\n\nCategory\nDefinition\n\n\n\n\nmodule\nContent that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons.\n\n\nshort course\ncontent that is delivered across multiple (2-5) days.\n\n\ncourse\ncontent for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Coding with GitHub\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nversion-control\n\n\nGitHub\n\n\nRStudio\n\n\n\nUse version control to efficiently work together on synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nr-packages\n\n\npackage-testing\n\n\npackage-dependencies\n\n\npackage-documentation\n\n\n\nPackage your work and share it. Creating your own package allows you to organize your code and data in a way that easily be shared and reused.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCoding in the Tidyverse\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\ntidyverse\n\n\nggplot2\n\n\ndata-visualization\n\n\ndata-wrangling\n\n\nR\n\n\n\nCover fundamental operations in the Tidyverse ecosystem of R packages\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ngit-collaboration\n\n\nmerge-conflict\n\n\ngit-best-practices\n\n\n\nHow to work with Git and GitHub will a collaborator with practices without and with merge conglict\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nGitHub\n\n\nGitHub-pages\n\n\nwebsite\n\n\n\nUsing GitHub pages to publish a document\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nversion-control\n\n\ngit\n\n\nGitHub\n\n\nremote-repository\n\n\nclone\n\n\ngit-on-existing-project\n\n\nRStudio\n\n\n\nIntro to Git and GitHub with motivating example and practice session using RStudio\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nTeach Me How to Google\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nGoogle\n\n\ncode-help\n\n\ntroubleshooting\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nfunctions\n\n\ndocumenting-functions\n\n\nwriting-functions-practice\n\n\n\nSoft introduction to writing functions in R. Live coding example\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nliterate-programming\n\n\nquarto\n\n\nmarkdown\n\n\ncode-chunk\n\n\nquarto-file-paths\n\n\nquarto-environment\n\n\n\nCombine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Shiny (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\ndata-wrangling\n\n\ntidyverse\n\n\n\nIntroduction to cleaning and wrangling data using dplyr and tidyr functions\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ndata-visualization\n\n\nggplot\n\n\nleaflet\n\n\n\nData visualization is a great tool to explore and communicate your data. Learn the basics of ggplot2 and other data vis packages.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Science Tools for Building Professional Online Portfolios (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nQuarto\n\n\nGitHub\n\n\n\na short course building, customizing, and maintaining GitHub and personal website portfolios\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\nweekly keyboard shortcuts that are helpful for early beginners\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\nRStudio\n\n\nconsole\n\n\nr-script\n\n\ndata-types\n\n\ndata-structure\n\n\nr-functions\n\n\nhelp-page\n\n\nsubset-operator\n\n\nerror-messages\n\n\n\nThis lesson walks through the basic concepts of the R programming language\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Apps for Sharing Science\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nshiny\n\n\nR\n\n\n\nEngage with the fundamentals of R Shiny using RStudio\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nspatial-data\n\n\nsf\n\n\ncoordinate-reference-system\n\n\nspatial-joins\n\n\ndata-visualization\n\n\nleaflet\n\n\nbasemaps\n\n\n\nHandling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\nNo matching items"
   }
 ]
