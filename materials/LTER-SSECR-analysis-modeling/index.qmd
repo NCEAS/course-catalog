@@ -1,0 +1,23 @@
+---
+title: "SSECR Module: Analysis & Modeling"
+description: "Statistical methods in synthesis projects"
+author: "LTER"
+categories: [LTER, module, website, aic, mixed-effects, meta-analysis, null-hypothesis-testing, multi-model-inference]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/ssecr/mod_stats.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/ssecr){target="_blank"}
+:::
+
+## Abstract
+
+Given the wide range in statistical training in graduate curricula (and corresponding breadth of experience among early career researchers), we'll be approaching this module by splitting it into two halves.
+
+1. First half: a "flipped approach" where project teams will share their proposed analyses with one another
+2. Second half: typical instructional module dedicated to analyses that are more common in–or exclusive to–synthesis research.
+
+Content produced by project teams during the flipped half may be linked in the 'Additional Resources' section at the bottom of this module at the discretion of each team. Otherwise the content of this module will focus only on the non-flipped content.

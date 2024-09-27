@@ -81,7 +81,8 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
+      page: 25,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
@@ -187,7 +188,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(21)</span></div><div class="category" data-category="CSS-Sass">CSS-Sass <span class="quarto-category-count">(1)</span></div><div class="category" data-category="GitHub">GitHub <span class="quarto-category-count">(4)</span></div><div class="category" data-category="GitHub-pages">GitHub-pages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Google">Google <span class="quarto-category-count">(1)</span></div><div class="category" data-category="HTML">HTML <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Jupyter-Notebooks">Jupyter-Notebooks <span class="quarto-category-count">(1)</span></div><div class="category" data-category="LH">LH <span class="quarto-category-count">(10)</span></div><div class="category" data-category="LTER">LTER <span class="quarto-category-count">(3)</span></div><div class="category" data-category="MEDS">MEDS <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Quarto-websites">Quarto-websites <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(6)</span></div><div class="category" data-category="RStudio">RStudio <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Shiny">Shiny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="basemaps">basemaps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="blog-post">blog-post <span class="quarto-category-count">(1)</span></div><div class="category" data-category="clone">clone <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code-chunk">code-chunk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code-help">code-help <span class="quarto-category-count">(1)</span></div><div class="category" data-category="command-line">command-line <span class="quarto-category-count">(1)</span></div><div class="category" data-category="console">console <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coordinate-reference-system">coordinate-reference-system <span class="quarto-category-count">(1)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-structure">data-structure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-types">data-types <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-visualization">data-visualization <span class="quarto-category-count">(4)</span></div><div class="category" data-category="data-wrangling">data-wrangling <span class="quarto-category-count">(2)</span></div><div class="category" data-category="documenting-functions">documenting-functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="error-messages">error-messages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="functions">functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ggplot">ggplot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ggplot2">ggplot2 <span class="quarto-category-count">(2)</span></div><div class="category" data-category="git">git <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-best-practices">git-best-practices <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-collaboration">git-collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-on-existing-project">git-on-existing-project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="help-page">help-page <span class="quarto-category-count">(1)</span></div><div class="category" data-category="instructional-document">instructional-document <span class="quarto-category-count">(1)</span></div><div class="category" data-category="keyboard-shortcuts">keyboard-shortcuts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="leaflet">leaflet <span class="quarto-category-count">(2)</span></div><div class="category" data-category="literate-programming">literate-programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="markdown">markdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="merge-conflict">merge-conflict <span class="quarto-category-count">(1)</span></div><div class="category" data-category="module">module <span class="quarto-category-count">(14)</span></div><div class="category" data-category="package-dependencies">package-dependencies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="package-documentation">package-documentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="package-testing">package-testing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto-environment">quarto-environment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto-file-paths">quarto-file-paths <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-functions">r-functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-packages">r-packages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-script">r-script <span class="quarto-category-count">(1)</span></div><div class="category" data-category="remote-repository">remote-repository <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sf">sf <span class="quarto-category-count">(1)</span></div><div class="category" data-category="shiny">shiny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="short-course">short-course <span class="quarto-category-count">(2)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(5)</span></div><div class="category" data-category="spatial-data">spatial-data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spatial-joins">spatial-joins <span class="quarto-category-count">(1)</span></div><div class="category" data-category="subset-operator">subset-operator <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tips-tricks">tips-tricks <span class="quarto-category-count">(1)</span></div><div class="category" data-category="troubleshooting">troubleshooting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="version-control">version-control <span class="quarto-category-count">(2)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(4)</span></div><div class="category" data-category="wiki">wiki <span class="quarto-category-count">(1)</span></div><div class="category" data-category="workshop">workshop <span class="quarto-category-count">(3)</span></div><div class="category" data-category="writing-functions-practice">writing-functions-practice <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(29)</span></div><div class="category" data-category="CSS-Sass">CSS-Sass <span class="quarto-category-count">(1)</span></div><div class="category" data-category="GitHub">GitHub <span class="quarto-category-count">(3)</span></div><div class="category" data-category="GitHub-pages">GitHub-pages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Google">Google <span class="quarto-category-count">(1)</span></div><div class="category" data-category="HTML">HTML <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Jupyter-Notebooks">Jupyter-Notebooks <span class="quarto-category-count">(1)</span></div><div class="category" data-category="LH">LH <span class="quarto-category-count">(10)</span></div><div class="category" data-category="LTER">LTER <span class="quarto-category-count">(11)</span></div><div class="category" data-category="MEDS">MEDS <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Quarto">Quarto <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Quarto-websites">Quarto-websites <span class="quarto-category-count">(3)</span></div><div class="category" data-category="R">R <span class="quarto-category-count">(7)</span></div><div class="category" data-category="RStudio">RStudio <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Shiny">Shiny <span class="quarto-category-count">(1)</span></div><div class="category" data-category="aic">aic <span class="quarto-category-count">(1)</span></div><div class="category" data-category="basemaps">basemaps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="blog-post">blog-post <span class="quarto-category-count">(1)</span></div><div class="category" data-category="clone">clone <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code-chunk">code-chunk <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code-conditionals">code-conditionals <span class="quarto-category-count">(1)</span></div><div class="category" data-category="code-help">code-help <span class="quarto-category-count">(1)</span></div><div class="category" data-category="command-line">command-line <span class="quarto-category-count">(1)</span></div><div class="category" data-category="console">console <span class="quarto-category-count">(1)</span></div><div class="category" data-category="coordinate-reference-system">coordinate-reference-system <span class="quarto-category-count">(1)</span></div><div class="category" data-category="course">course <span class="quarto-category-count">(1)</span></div><div class="category" data-category="custom-r-functions">custom-r-functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-discovery">data-discovery <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-harmonization">data-harmonization <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-inventory">data-inventory <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-qc">data-qc <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-repositories">data-repositories <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-shape">data-shape <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-structure">data-structure <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-types">data-types <span class="quarto-category-count">(1)</span></div><div class="category" data-category="data-visualization">data-visualization <span class="quarto-category-count">(4)</span></div><div class="category" data-category="data-wrangling">data-wrangling <span class="quarto-category-count">(3)</span></div><div class="category" data-category="documenting-functions">documenting-functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="error-messages">error-messages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="functions">functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ggplot">ggplot <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ggplot2">ggplot2 <span class="quarto-category-count">(3)</span></div><div class="category" data-category="git">git <span class="quarto-category-count">(2)</span></div><div class="category" data-category="git-best-practices">git-best-practices <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-branch">git-branch <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-clone">git-clone <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-collaboration">git-collaboration <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-conflict">git-conflict <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-fork">git-fork <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-issue">git-issue <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-milestone">git-milestone <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-on-existing-project">git-on-existing-project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="git-project">git-project <span class="quarto-category-count">(1)</span></div><div class="category" data-category="github">github <span class="quarto-category-count">(1)</span></div><div class="category" data-category="help-page">help-page <span class="quarto-category-count">(1)</span></div><div class="category" data-category="instructional-document">instructional-document <span class="quarto-category-count">(1)</span></div><div class="category" data-category="joins">joins <span class="quarto-category-count">(1)</span></div><div class="category" data-category="keyboard-shortcuts">keyboard-shortcuts <span class="quarto-category-count">(1)</span></div><div class="category" data-category="leaflet">leaflet <span class="quarto-category-count">(2)</span></div><div class="category" data-category="literate-programming">literate-programming <span class="quarto-category-count">(1)</span></div><div class="category" data-category="loops">loops <span class="quarto-category-count">(1)</span></div><div class="category" data-category="maps">maps <span class="quarto-category-count">(1)</span></div><div class="category" data-category="markdown">markdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="merge-conflict">merge-conflict <span class="quarto-category-count">(1)</span></div><div class="category" data-category="meta-analysis">meta-analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="mixed-effects">mixed-effects <span class="quarto-category-count">(1)</span></div><div class="category" data-category="module">module <span class="quarto-category-count">(25)</span></div><div class="category" data-category="multi-model-inference">multi-model-inference <span class="quarto-category-count">(1)</span></div><div class="category" data-category="multi-panel-graphs">multi-panel-graphs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="notebook-interfaces">notebook-interfaces <span class="quarto-category-count">(1)</span></div><div class="category" data-category="null-hypothesis-testing">null-hypothesis-testing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="ordination">ordination <span class="quarto-category-count">(1)</span></div><div class="category" data-category="package-dependencies">package-dependencies <span class="quarto-category-count">(1)</span></div><div class="category" data-category="package-documentation">package-documentation <span class="quarto-category-count">(1)</span></div><div class="category" data-category="package-testing">package-testing <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto">quarto <span class="quarto-category-count">(2)</span></div><div class="category" data-category="quarto-environment">quarto-environment <span class="quarto-category-count">(1)</span></div><div class="category" data-category="quarto-file-paths">quarto-file-paths <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-functions">r-functions <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-markdown">r-markdown <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-packages">r-packages <span class="quarto-category-count">(1)</span></div><div class="category" data-category="r-script">r-script <span class="quarto-category-count">(1)</span></div><div class="category" data-category="raster-data">raster-data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="remote-repository">remote-repository <span class="quarto-category-count">(1)</span></div><div class="category" data-category="reproducibility">reproducibility <span class="quarto-category-count">(2)</span></div><div class="category" data-category="rstudio">rstudio <span class="quarto-category-count">(1)</span></div><div class="category" data-category="sf">sf <span class="quarto-category-count">(2)</span></div><div class="category" data-category="shiny">shiny <span class="quarto-category-count">(2)</span></div><div class="category" data-category="short-course">short-course <span class="quarto-category-count">(2)</span></div><div class="category" data-category="slides">slides <span class="quarto-category-count">(5)</span></div><div class="category" data-category="spatial-crs">spatial-crs <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spatial-data">spatial-data <span class="quarto-category-count">(2)</span></div><div class="category" data-category="spatial-extraction">spatial-extraction <span class="quarto-category-count">(1)</span></div><div class="category" data-category="spatial-joins">spatial-joins <span class="quarto-category-count">(1)</span></div><div class="category" data-category="subset-operator">subset-operator <span class="quarto-category-count">(1)</span></div><div class="category" data-category="terra">terra <span class="quarto-category-count">(1)</span></div><div class="category" data-category="tidyverse">tidyverse <span class="quarto-category-count">(2)</span></div><div class="category" data-category="tips-tricks">tips-tricks <span class="quarto-category-count">(1)</span></div><div class="category" data-category="troubleshooting">troubleshooting <span class="quarto-category-count">(1)</span></div><div class="category" data-category="vector-data">vector-data <span class="quarto-category-count">(1)</span></div><div class="category" data-category="version-control">version-control <span class="quarto-category-count">(2)</span></div><div class="category" data-category="visualization-accessibility ggplot2-themes">visualization-accessibility ggplot2-themes <span class="quarto-category-count">(1)</span></div><div class="category" data-category="website">website <span class="quarto-category-count">(12)</span></div><div class="category" data-category="wiki">wiki <span class="quarto-category-count">(1)</span></div><div class="category" data-category="writing-functions-practice">writing-functions-practice <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
 
@@ -332,7 +333,91 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="2" data-categories="LH,module,r-packages,package-testing,package-dependencies,package-documentation" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
+<div class="quarto-post image-right" data-index="2" data-categories="LTER,module,website,data-discovery,data-inventory,data-repositories" data-listing-file-modified-sort="1727464884630" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external">SSECR Module: Data Discovery &amp; Management</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-discovery'); return false;">
+data-discovery
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-inventory'); return false;">
+data-inventory
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-repositories'); return false;">
+data-repositories
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external">Data discovery and documentation for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-discovery/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="LTER,module,website,reproducibility" data-listing-file-modified-sort="1727464766998" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external">SSECR Module: Reproducibility</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('reproducibility'); return false;">
+reproducibility
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external">Reproducibility in synthesis science projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-reproducibility/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="LH,module,r-packages,package-testing,package-dependencies,package-documentation" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="113">
 <div class="thumbnail">
 <p><a href="./materials/LH-r-creating-packages/index.html" class="no-external"></a></p><a href="./materials/LH-r-creating-packages/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -377,7 +462,67 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="3" data-categories="MEDS,short-course,website,slides,Quarto,GitHub" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
+<div class="quarto-post image-right" data-index="5" data-categories="LTER,module,website,spatial-data,vector-data,raster-data,spatial-crs,maps,spatial-extraction,sf,terra" data-listing-file-modified-sort="1727465287480" data-listing-reading-time-sort="1" data-listing-word-count-sort="133">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external">SSECR Module: Spatial Data</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('spatial-data'); return false;">
+spatial-data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('vector-data'); return false;">
+vector-data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('raster-data'); return false;">
+raster-data
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('spatial-crs'); return false;">
+spatial-crs
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('maps'); return false;">
+maps
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('spatial-extraction'); return false;">
+spatial-extraction
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('sf'); return false;">
+sf
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('terra'); return false;">
+terra
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external">Spatial data operations for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-spatial-data/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="6" data-categories="MEDS,short-course,website,slides,Quarto,GitHub" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="163">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-DS-portfolios/index.html" class="no-external"></a></p><a href="./materials/MEDS-DS-portfolios/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -422,7 +567,55 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="4" data-categories="MEDS,module,slides,Google,code-help,troubleshooting" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
+<div class="quarto-post image-right" data-index="7" data-categories="LTER,module,website,reproducibility,notebook-interfaces,r-markdown,quarto" data-listing-file-modified-sort="1727465213040" data-listing-reading-time-sort="1" data-listing-word-count-sort="153">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external">SSECR Module: Reproducible Reports</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('reproducibility'); return false;">
+reproducibility
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('notebook-interfaces'); return false;">
+notebook-interfaces
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('r-markdown'); return false;">
+r-markdown
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('quarto'); return false;">
+quarto
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external">Reproducible reports for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-reproducible-reports/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="8" data-categories="MEDS,module,slides,Google,code-help,troubleshooting" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="73">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-google/index.html" class="no-external"></a></p><a href="./materials/MEDS-google/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -467,7 +660,7 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="5" data-categories="LH,module,literate-programming,quarto,markdown,code-chunk,quarto-file-paths,quarto-environment" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
+<div class="quarto-post image-right" data-index="9" data-categories="LH,module,literate-programming,quarto,markdown,code-chunk,quarto-file-paths,quarto-environment" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="101">
 <div class="thumbnail">
 <p><a href="./materials/LH-literate-analysis-quarto/index.html" class="no-external"></a></p><a href="./materials/LH-literate-analysis-quarto/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -518,7 +711,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="6" data-categories="MEDS,module,instructional-document,Quarto,Quarto-websites" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<div class="quarto-post image-right" data-index="10" data-categories="MEDS,module,instructional-document,Quarto,Quarto-websites" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-build-quarto-websites/index.html" class="no-external"></a></p><a href="./materials/MEDS-build-quarto-websites/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -560,7 +753,97 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="7" data-categories="LTER,workshop,tidyverse,ggplot2,data-visualization,data-wrangling,R" data-listing-file-modified-sort="1727445763175" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
+<div class="quarto-post image-right" data-index="11" data-categories="LTER,module,website,shiny,R" data-listing-file-modified-sort="1727465130103" data-listing-reading-time-sort="1" data-listing-word-count-sort="165">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external">SSECR Module: Interactivity</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('shiny'); return false;">
+shiny
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('R'); return false;">
+R
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external">Interactive apps with Shiny for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-interactivity/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="12" data-categories="LTER,module,website,ggplot2,ordination,multi-panel-graphs,visualization-accessibility ggplot2-themes" data-listing-file-modified-sort="1727465524313" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external">SSECR Module: Data Visualization</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ggplot2'); return false;">
+ggplot2
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('ordination'); return false;">
+ordination
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('multi-panel-graphs'); return false;">
+multi-panel-graphs
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('visualization-accessibility ggplot2-themes'); return false;">
+visualization-accessibility ggplot2-themes
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external">Data visualization and exploration methods for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-visualization/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="13" data-categories="LTER,module,tidyverse,ggplot2,data-visualization,data-wrangling,R" data-listing-file-modified-sort="1727464180704" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
 <div class="thumbnail">
 <p><a href="./materials/LTER-tidyverse/index.html" class="no-external"></a></p><a href="./materials/LTER-tidyverse/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -577,8 +860,8 @@ MEDS
 <div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
 LTER
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('workshop'); return false;">
-workshop
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('tidyverse'); return false;">
 tidyverse
@@ -608,7 +891,7 @@ LTER
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="8" data-categories="LTER,workshop,version-control,GitHub,RStudio" data-listing-file-modified-sort="1727445734151" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
+<div class="quarto-post image-right" data-index="14" data-categories="LTER,module,version-control,git,github,rstudio,git-clone,git-branch,git-fork,git-conflict,git-issue,git-project,git-milestone" data-listing-file-modified-sort="1727464366582" data-listing-reading-time-sort="1" data-listing-word-count-sort="65">
 <div class="thumbnail">
 <p><a href="./materials/LTER-github/index.html" class="no-external"></a></p><a href="./materials/LTER-github/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -625,17 +908,41 @@ LTER
 <div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
 LTER
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('workshop'); return false;">
-workshop
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('version-control'); return false;">
 version-control
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('GitHub'); return false;">
-GitHub
+<div class="listing-category" onclick="window.quartoListingCategory('git'); return false;">
+git
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('RStudio'); return false;">
-RStudio
+<div class="listing-category" onclick="window.quartoListingCategory('github'); return false;">
+github
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('rstudio'); return false;">
+rstudio
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-clone'); return false;">
+git-clone
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-branch'); return false;">
+git-branch
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-fork'); return false;">
+git-fork
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-conflict'); return false;">
+git-conflict
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-issue'); return false;">
+git-issue
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-project'); return false;">
+git-project
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('git-milestone'); return false;">
+git-milestone
 </div>
 </div>
 <div class="listing-description">
@@ -650,7 +957,7 @@ LTER
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="9" data-categories="LH,module,R,data-wrangling,tidyverse" data-listing-file-modified-sort="1727445635376" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
+<div class="quarto-post image-right" data-index="15" data-categories="LH,module,R,data-wrangling,tidyverse" data-listing-file-modified-sort="1727445635376" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
 <div class="thumbnail">
 <p><a href="./materials/LH-clean-wangle-data/index.html" class="no-external"></a></p><a href="./materials/LH-clean-wangle-data/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -692,7 +999,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="10" data-categories="MEDS,wiki,tips-tricks,keyboard-shortcuts,RStudio,Jupyter-Notebooks,command-line" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
+<div class="quarto-post image-right" data-index="16" data-categories="MEDS,wiki,tips-tricks,keyboard-shortcuts,RStudio,Jupyter-Notebooks,command-line" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="131">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-keyboard-shortcuts/index.html" class="no-external"></a></p><a href="./materials/MEDS-keyboard-shortcuts/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -740,7 +1047,7 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="11" data-categories="LH,module,git-collaboration,merge-conflict,git-best-practices" data-listing-file-modified-sort="1727445635378" data-listing-reading-time-sort="1" data-listing-word-count-sort="108">
+<div class="quarto-post image-right" data-index="17" data-categories="LH,module,git-collaboration,merge-conflict,git-best-practices" data-listing-file-modified-sort="1727445635378" data-listing-reading-time-sort="1" data-listing-word-count-sort="108">
 <div class="thumbnail">
 <p><a href="./materials/LH-git-collab-merge-conflict/index.html" class="no-external"></a></p><a href="./materials/LH-git-collab-merge-conflict/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -782,7 +1089,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="12" data-categories="LH,module,data-visualization,ggplot,leaflet" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
+<div class="quarto-post image-right" data-index="18" data-categories="LH,module,data-visualization,ggplot,leaflet" data-listing-file-modified-sort="1727445635389" data-listing-reading-time-sort="1" data-listing-word-count-sort="80">
 <div class="thumbnail">
 <p><a href="./materials/LH-visualization-ggplot-leaflet/index.html" class="no-external"></a></p><a href="./materials/LH-visualization-ggplot-leaflet/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -824,7 +1131,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="13" data-categories="LH,module,R,RStudio,console,r-script,data-types,data-structure,r-functions,help-page,subset-operator,error-messages" data-listing-file-modified-sort="1727445635383" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="quarto-post image-right" data-index="19" data-categories="LH,module,R,RStudio,console,r-script,data-types,data-structure,r-functions,help-page,subset-operator,error-messages" data-listing-file-modified-sort="1727445635383" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail">
 <p><a href="./materials/LH-intro-to-r-programming/index.html" class="no-external"></a></p><a href="./materials/LH-intro-to-r-programming/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -887,7 +1194,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="14" data-categories="LTER,workshop,shiny,R" data-listing-file-modified-sort="1709669352889" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="quarto-post image-right" data-index="20" data-categories="LTER,module,shiny,R" data-listing-file-modified-sort="1727464163878" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail">
 <p><a href="./materials/LTER-shiny/index.html" class="no-external"></a></p><a href="./materials/LTER-shiny/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -904,8 +1211,8 @@ Learning Hub
 <div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
 LTER
 </div>
-<div class="listing-category" onclick="window.quartoListingCategory('workshop'); return false;">
-workshop
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
 </div>
 <div class="listing-category" onclick="window.quartoListingCategory('shiny'); return false;">
 shiny
@@ -926,7 +1233,7 @@ LTER
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="15" data-categories="MEDS,short-course,website,slides,Shiny,R" data-listing-file-modified-sort="1727445635390" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
+<div class="quarto-post image-right" data-index="21" data-categories="MEDS,short-course,website,slides,Shiny,R" data-listing-file-modified-sort="1727445635390" data-listing-reading-time-sort="1" data-listing-word-count-sort="142">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-shiny/index.html" class="no-external"></a></p><a href="./materials/MEDS-shiny/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -971,7 +1278,7 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="16" data-categories="LH,module,spatial-data,sf,coordinate-reference-system,spatial-joins,data-visualization,leaflet,basemaps" data-listing-file-modified-sort="1727445635386" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="quarto-post image-right" data-index="22" data-categories="LH,module,spatial-data,sf,coordinate-reference-system,spatial-joins,data-visualization,leaflet,basemaps" data-listing-file-modified-sort="1727445635386" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <div class="thumbnail">
 <p><a href="./materials/LH-sf-spatial-data/index.html" class="no-external"></a></p><a href="./materials/LH-sf-spatial-data/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1025,7 +1332,58 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="17" data-categories="MEDS,module,blog-post,Quarto,Quarto-websites" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
+<div class="quarto-post image-right" data-index="23" data-categories="LTER,module,website,aic,mixed-effects,meta-analysis,null-hypothesis-testing,multi-model-inference" data-listing-file-modified-sort="1727464802802" data-listing-reading-time-sort="1" data-listing-word-count-sort="126">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external">SSECR Module: Analysis &amp; Modeling</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('aic'); return false;">
+aic
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mixed-effects'); return false;">
+mixed-effects
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('meta-analysis'); return false;">
+meta-analysis
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('null-hypothesis-testing'); return false;">
+null-hypothesis-testing
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('multi-model-inference'); return false;">
+multi-model-inference
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external">Statistical methods in synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-analysis-modeling/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="24" data-categories="MEDS,module,blog-post,Quarto,Quarto-websites" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="94">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-quarto-blogs/index.html" class="no-external"></a></p><a href="./materials/MEDS-quarto-blogs/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1067,7 +1425,7 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="18" data-categories="LH,module,GitHub,GitHub-pages,website" data-listing-file-modified-sort="1727445635378" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
+<div class="quarto-post image-right" data-index="25" data-categories="LH,module,GitHub,GitHub-pages,website" data-listing-file-modified-sort="1727445635378" data-listing-reading-time-sort="1" data-listing-word-count-sort="64">
 <div class="thumbnail">
 <p><a href="./materials/LH-git-github-publishing-analysis/index.html" class="no-external"></a></p><a href="./materials/LH-git-github-publishing-analysis/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1109,7 +1467,7 @@ Learning Hub
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="19" data-categories="MEDS,module,slides,Quarto,Quarto-websites,HTML,CSS-Sass" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
+<div class="quarto-post image-right" data-index="26" data-categories="MEDS,module,slides,Quarto,Quarto-websites,HTML,CSS-Sass" data-listing-file-modified-sort="1709668177315" data-listing-reading-time-sort="1" data-listing-word-count-sort="112">
 <div class="thumbnail">
 <p><a href="./materials/MEDS-customizing-quarto-websites/index.html" class="no-external"></a></p><a href="./materials/MEDS-customizing-quarto-websites/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1157,7 +1515,67 @@ MEDS
 </a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="20" data-categories="LH,module,functions,documenting-functions,writing-functions-practice" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
+<div class="quarto-post image-right" data-index="27" data-categories="LTER,module,website,data-harmonization,data-wrangling,data-qc,code-conditionals,joins,data-shape,loops,custom-r-functions" data-listing-file-modified-sort="1727465067656" data-listing-reading-time-sort="1" data-listing-word-count-sort="184">
+<div class="thumbnail">
+<p><a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external">SSECR Module: Data Wrangling</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('LTER'); return false;">
+LTER
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('module'); return false;">
+module
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('website'); return false;">
+website
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-harmonization'); return false;">
+data-harmonization
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-wrangling'); return false;">
+data-wrangling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-qc'); return false;">
+data-qc
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('code-conditionals'); return false;">
+code-conditionals
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('joins'); return false;">
+joins
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data-shape'); return false;">
+data-shape
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('loops'); return false;">
+loops
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('custom-r-functions'); return false;">
+custom-r-functions
+</div>
+</div>
+<div class="listing-description">
+<a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external">Data wrangling and harmonization for synthesis projects</a>
+</div>
+</div>
+<div class="metadata">
+<p><a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external"></a></p><a href="./materials/LTER-SSECR-data-wrangling/index.html" class="no-external">
+<div class="listing-author">
+LTER
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="28" data-categories="LH,module,functions,documenting-functions,writing-functions-practice" data-listing-file-modified-sort="1727445635384" data-listing-reading-time-sort="1" data-listing-word-count-sort="68">
 <div class="thumbnail">
 <p><a href="./materials/LH-r-creating-functions/index.html" class="no-external"></a></p><a href="./materials/LH-r-creating-functions/index.html" class="no-external">
 <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
@@ -1203,6 +1621,9 @@ Learning Hub
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="listing-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {

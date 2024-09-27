@@ -1,0 +1,22 @@
+---
+title: "SSECR Module: Interactivity"
+description: "Interactive apps with Shiny for synthesis projects"
+author: "LTER"
+categories: [LTER, module, website, shiny, R]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/ssecr/mod_interactivity.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/ssecr){target="_blank"}
+:::
+
+## Abstract
+
+Shiny is a popular tool that allows users to build interactive web applications without the normally pre-requisite web development expertise. In addition to Shiny apps being simpler to build for the programmer they are often used to allow visitors to perform coding tasks without ever actually writing code. These are huge advantages because they reduce or eliminate significant technical barriers in developing truly interactive applications.
+
+In synthesis contexts, Shiny can be used for a variety of valuable purposes. You can use it to develop dashboards for sharing data with related communities, allow your team to quickly "play with" exploratory graphs, or even to create a data submission portal (as is the case with some <u>R</u>esearch <u>C</u>oordination <u>N</u>etworks or "RCNs").
+
+Note that Shiny can be built in either R or Python 'under the hood' but for the purposes of this module we'll focus on R.

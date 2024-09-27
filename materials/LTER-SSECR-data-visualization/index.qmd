@@ -1,0 +1,18 @@
+---
+title: "SSECR Module: Data Visualization"
+description: "Data visualization and exploration methods for synthesis projects"
+author: "LTER"
+categories: [LTER, module, website, ggplot2, ordination, multi-panel-graphs, visualization-accessibility ggplot2-themes]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/ssecr/mod_data-viz.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/ssecr){target="_blank"}
+:::
+
+## Abstract
+
+Data visualization is a fundamental part of working with data. Visualization can be only used in the final stages of a project to make figures for publication but it can also be hugely valuable for quality control and hypothesis development processes. This module focuses on the fundamentals of graph creation in an effort to empower you to apply those methods in the various contexts where you might find visualization to be helpful.

@@ -2,7 +2,7 @@
 title: "Coding in the Tidyverse"
 description: "Cover fundamental operations in the Tidyverse ecosystem of R packages"
 author: "LTER"
-categories: [LTER, workshop, tidyverse, ggplot2, data-visualization, data-wrangling, R]
+categories: [LTER, module, tidyverse, ggplot2, data-visualization, data-wrangling, R]
 ---
 
 ## Workshop Materials

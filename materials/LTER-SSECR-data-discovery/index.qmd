@@ -1,0 +1,18 @@
+---
+title: "SSECR Module: Data Discovery & Management"
+description: "Data discovery and documentation for synthesis projects"
+author: "LTER"
+categories: [LTER, module, website, data-discovery, data-inventory, data-repositories]
+---
+
+## Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/ssecr/mod_data-disc.html){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/ssecr){target="_blank"}
+:::
+
+## Abstract
+
+Synthesis projects often begin with a few datasets that inspire the questions–and end up incorporating dozens or hundreds of others. Researchers may seek out data that resemble their initial datasets, but come from other climates, ecosystems, or cultural settings. Or they may find that they need data of a completely different kind to establish drivers and context. The best synthesizers are resourceful in their search for data, cautious in evaluating data quality and relevance, and meticulous in documenting data sources, treatments, and related analytical decisions. In this workshop, we will cover all these aspects in enough depth for participants to begin finding and assessing their own project data.
