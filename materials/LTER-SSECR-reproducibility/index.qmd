@@ -1,6 +1,6 @@
 ---
 title: "SSECR Module: Reproducibility"
-description: ""
+description: "Reproducibility in synthesis science projects"
 author: "LTER"
 categories: [LTER, module, website, reproducibility]
 ---
