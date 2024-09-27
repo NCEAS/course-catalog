@@ -1,6 +1,6 @@
 ---
 title: "IDE Tips & Tricks / Keyboard Shortcuts"
-description: "make your website stand out using Sass & CSS"
+description: "weekly keyboard shortcuts that are helpful for early beginners"
 author: "MEDS"
 #date: "2024-02-13"
 categories: [MEDS, wiki, tips-tricks, keyboard-shortcuts, RStudio, Jupyter-Notebooks, command-line]

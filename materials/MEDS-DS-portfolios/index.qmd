@@ -1,0 +1,27 @@
+---
+title: "Data Science Tools for Building Professional Online Portfolios (EDS 296)"
+description: "a short course building, customizing, and maintaining GitHub and  personal website portfolios"
+author: "MEDS"
+#date: "2024-02-13"
+categories: [MEDS, short-course, website, slides, Quarto, GitHub]
+#image: "image.jpg"
+---
+
+## Workshop Materials
+
+<br>
+
+::: {.center-text .body-text-l}
+[{{< fa window-maximize title="a web browser" >}} course website](https://ucsb-meds.github.io/EDS-296-DS-portfolios/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/UCSB-MEDS/EDS-296-DS-portfolios){target="_blank"}
+:::
+
+## Abstract
+
+Having a polished online presence is essential for showcasing your skills, projects, expertise, and (importantly) your personality. Learners, collaborators, and future employers alike will look to your public online profiles to glean information about you and your work. As data scientists, this often means that they’ll head to one of two places: GitHub and / or your personal website. This course is designed to help you both lay the foundation for creating and maintaining these profiles in an organized, informative, and visually-appealing way. In this course, you will:
+
+- begin developing your personal brand
+- build and deploy your personal website using popular data science tools and frameworks
+- create your first (of many!) data science blog posts
+- learn about how best to communicate your work to different audiences
+- understand where and how to document your projects and code on GitHub
+- and more!
