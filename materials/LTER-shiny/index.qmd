@@ -2,7 +2,7 @@
 title: "Shiny Apps for Sharing Science"
 description: "Engage with the fundamentals of R Shiny using RStudio"
 author: "LTER"
-categories: [LTER, workshop, shiny, R]
+categories: [LTER, module, shiny, R]
 ---
 
 ## Workshop Materials
