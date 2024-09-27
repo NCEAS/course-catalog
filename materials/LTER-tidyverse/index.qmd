@@ -10,7 +10,7 @@ categories: [LTER, workshop, tidyverse, ggplot2, data-visualization, data-wrangl
 <br>
 
 ::: {.center-text .body-text-l}
-[{{< fa window-maximize title="a web browser" >}} course website](https://nceas.github.io/scicomp-workshop-tidyverse/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/scicomp-workshop-tidyverse){target="_blank"}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/workshop-tidyverse/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/workshop-tidyverse){target="_blank"}
 :::
 
 ## Abstract

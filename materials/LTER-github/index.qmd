@@ -11,7 +11,7 @@ categories: [LTER, workshop, version-control, GitHub, RStudio]
 <br>
 
 ::: {.center-text .body-text-l}
-[{{< fa window-maximize title="a web browser" >}} course website](https://nceas.github.io/scicomp-workshop-collaborative-coding/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/NCEAS/scicomp-workshop-collaborative-coding){target="_blank"}
+[{{< fa window-maximize title="a web browser" >}} course website](https://lter.github.io/workshop-github/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/lter/workshop-github){target="_blank"}
 :::
 
 ## Abstract
