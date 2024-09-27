@@ -480,6 +480,174 @@
     "href": "index.html",
     "title": "Data Science Training Material Catalog",
     "section": "",
-    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\n\n\nCategory\nDefinition\n\n\n\n\nmodule\nContent that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons.\n\n\nshort course\ncontent that is delivered across multiple (2-5) days.\n\n\ncourse\ncontent for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nversion-control\n\n\ngit\n\n\nGitHub\n\n\nremote-repository\n\n\nclone\n\n\ngit-on-existing-project\n\n\nRStudio\n\n\n\nIntro to Git and GitHub with motivating example and practice session using RStudio\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nr-packages\n\n\npackage-testing\n\n\npackage-dependencies\n\n\npackage-documentation\n\n\n\nPackage your work and share it. Creating your own package allows you to organize your code and data in a way that easily be shared and reused.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Science Tools for Building Professional Online Portfolios (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nQuarto\n\n\nGitHub\n\n\n\na short course building, customizing, and maintaining GitHub and personal website portfolios\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nTeach Me How to Google\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nGoogle\n\n\ncode-help\n\n\ntroubleshooting\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nliterate-programming\n\n\nquarto\n\n\nmarkdown\n\n\ncode-chunk\n\n\nquarto-file-paths\n\n\nquarto-environment\n\n\n\nCombine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCoding in the Tidyverse\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\ntidyverse\n\n\nggplot2\n\n\ndata-visualization\n\n\ndata-wrangling\n\n\nR\n\n\n\nCover fundamental operations in the Tidyverse ecosystem of R packages\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Coding with GitHub\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nversion-control\n\n\nGitHub\n\n\nRStudio\n\n\n\nUse version control to efficiently work together on synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\ndata-wrangling\n\n\ntidyverse\n\n\n\nIntroduction to cleaning and wrangling data using dplyr and tidyr functions\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\nweekly keyboard shortcuts that are helpful for early beginners\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ngit-collaboration\n\n\nmerge-conflict\n\n\ngit-best-practices\n\n\n\nHow to work with Git and GitHub will a collaborator with practices without and with merge conglict\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ndata-visualization\n\n\nggplot\n\n\nleaflet\n\n\n\nData visualization is a great tool to explore and communicate your data. Learn the basics of ggplot2 and other data vis packages.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\nRStudio\n\n\nconsole\n\n\nr-script\n\n\ndata-types\n\n\ndata-structure\n\n\nr-functions\n\n\nhelp-page\n\n\nsubset-operator\n\n\nerror-messages\n\n\n\nThis lesson walks through the basic concepts of the R programming language\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Apps for Sharing Science\n\n\n\n\n\n\nLTER\n\n\nworkshop\n\n\nshiny\n\n\nR\n\n\n\nEngage with the fundamentals of R Shiny using RStudio\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Shiny (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nspatial-data\n\n\nsf\n\n\ncoordinate-reference-system\n\n\nspatial-joins\n\n\ndata-visualization\n\n\nleaflet\n\n\nbasemaps\n\n\n\nHandling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nGitHub\n\n\nGitHub-pages\n\n\nwebsite\n\n\n\nUsing GitHub pages to publish a document\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nfunctions\n\n\ndocumenting-functions\n\n\nwriting-functions-practice\n\n\n\nSoft introduction to writing functions in R. Live coding example\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\nNo matching items"
+    "text": "Filter materials using the Categories on the right. Some helpful definitions:\n\n\n\n\nCategory\nDefinition\n\n\n\n\nmodule\nContent that can be delivered in a short, 1-2 hour-long session; short courses & courses often comprise multiple modules; modules may or may not be stand-alone lessons.\n\n\nshort course\ncontent that is delivered across multiple (2-5) days.\n\n\ncourse\ncontent for a quarter- or semester-long academic course\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Git and GitHub\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nversion-control\n\n\ngit\n\n\nGitHub\n\n\nremote-repository\n\n\nclone\n\n\ngit-on-existing-project\n\n\nRStudio\n\n\n\nIntro to Git and GitHub with motivating example and practice session using RStudio\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nData Visualization & Communication (EDS 240)\n\n\n\n\n\n\nMEDS\n\n\ncourse\n\n\nwebsite\n\n\nslides\n\n\ndata-visualization\n\n\nR\n\n\nggplot2\n\n\n\na 4-unit graduate-level course taught at the Bren School for Environmental Science & Management\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Data Discovery & Management\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\ndata-discovery\n\n\ndata-inventory\n\n\ndata-repositories\n\n\n\nData discovery and documentation for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Reproducibility\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\nreproducibility\n\n\n\nReproducibility in synthesis science projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCreating R Packages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nr-packages\n\n\npackage-testing\n\n\npackage-dependencies\n\n\npackage-documentation\n\n\n\nPackage your work and share it. Creating your own package allows you to organize your code and data in a way that easily be shared and reused.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Spatial Data\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\nspatial-data\n\n\nvector-data\n\n\nraster-data\n\n\nspatial-crs\n\n\nmaps\n\n\nspatial-extraction\n\n\nsf\n\n\nterra\n\n\n\nSpatial data operations for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nData Science Tools for Building Professional Online Portfolios (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nQuarto\n\n\nGitHub\n\n\n\na short course building, customizing, and maintaining GitHub and personal website portfolios\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Reproducible Reports\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\nreproducibility\n\n\nnotebook-interfaces\n\n\nr-markdown\n\n\nquarto\n\n\n\nReproducible reports for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nTeach Me How to Google\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nGoogle\n\n\ncode-help\n\n\ntroubleshooting\n\n\n\na talk on how to troubleshoot code and Google for helpful answers\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nLiterate Analysis with Quarto\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nliterate-programming\n\n\nquarto\n\n\nmarkdown\n\n\ncode-chunk\n\n\nquarto-file-paths\n\n\nquarto-environment\n\n\n\nCombine prose and code in one documen. Literate analysis is a fundamental tool for making your work reproducible.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCreating your personal website using Quarto\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\ninstructional-document\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nstep-by-step instructions for building & deploying a Quarto website\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Interactivity\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\nshiny\n\n\nR\n\n\n\nInteractive apps with Shiny for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Data Visualization\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\nggplot2\n\n\nordination\n\n\nmulti-panel-graphs\n\n\nvisualization-accessibility ggplot2-themes\n\n\n\nData visualization and exploration methods for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCoding in the Tidyverse\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\ntidyverse\n\n\nggplot2\n\n\ndata-visualization\n\n\ndata-wrangling\n\n\nR\n\n\n\nCover fundamental operations in the Tidyverse ecosystem of R packages\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborative Coding with GitHub\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nversion-control\n\n\ngit\n\n\ngithub\n\n\nrstudio\n\n\ngit-clone\n\n\ngit-branch\n\n\ngit-fork\n\n\ngit-conflict\n\n\ngit-issue\n\n\ngit-project\n\n\ngit-milestone\n\n\n\nUse version control to efficiently work together on synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCleaning and Wrangling Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\ndata-wrangling\n\n\ntidyverse\n\n\n\nIntroduction to cleaning and wrangling data using dplyr and tidyr functions\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIDE Tips & Tricks / Keyboard Shortcuts\n\n\n\n\n\n\nMEDS\n\n\nwiki\n\n\ntips-tricks\n\n\nkeyboard-shortcuts\n\n\nRStudio\n\n\nJupyter-Notebooks\n\n\ncommand-line\n\n\n\nweekly keyboard shortcuts that are helpful for early beginners\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nCollaborating using Git and GitHub & Merge Conflicts\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ngit-collaboration\n\n\nmerge-conflict\n\n\ngit-best-practices\n\n\n\nHow to work with Git and GitHub will a collaborator with practices without and with merge conglict\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Data Visualization\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\ndata-visualization\n\n\nggplot\n\n\nleaflet\n\n\n\nData visualization is a great tool to explore and communicate your data. Learn the basics of ggplot2 and other data vis packages.\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nIntroduction to Programming in R using RStudio\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nR\n\n\nRStudio\n\n\nconsole\n\n\nr-script\n\n\ndata-types\n\n\ndata-structure\n\n\nr-functions\n\n\nhelp-page\n\n\nsubset-operator\n\n\nerror-messages\n\n\n\nThis lesson walks through the basic concepts of the R programming language\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nShiny Apps for Sharing Science\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nshiny\n\n\nR\n\n\n\nEngage with the fundamentals of R Shiny using RStudio\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nIntro to Shiny (EDS 296)\n\n\n\n\n\n\nMEDS\n\n\nshort-course\n\n\nwebsite\n\n\nslides\n\n\nShiny\n\n\nR\n\n\n\na short course on building, customizing, and deploying interactive dashboards using R {shiny}\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nUsing sf for Spatial Data\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nspatial-data\n\n\nsf\n\n\ncoordinate-reference-system\n\n\nspatial-joins\n\n\ndata-visualization\n\n\nleaflet\n\n\nbasemaps\n\n\n\nHandling spatial data can be tricky. The sf package allows for integrating R spatial software with the tidyverse if desired\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Analysis & Modeling\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\naic\n\n\nmixed-effects\n\n\nmeta-analysis\n\n\nnull-hypothesis-testing\n\n\nmulti-model-inference\n\n\n\nStatistical methods in synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nAdding a blog to your existing Quarto website\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nblog-post\n\n\nQuarto\n\n\nQuarto-websites\n\n\n\nGot a Quarto website, but no blog? We can fix that!\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nPublishing to the Web using GitHub Pages\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nGitHub\n\n\nGitHub-pages\n\n\nwebsite\n\n\n\nUsing GitHub pages to publish a document\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\n\n\n\n\n\n\nCustomizing Quarto Websites\n\n\n\n\n\n\nMEDS\n\n\nmodule\n\n\nslides\n\n\nQuarto\n\n\nQuarto-websites\n\n\nHTML\n\n\nCSS-Sass\n\n\n\nmake your website stand out using Sass & CSS\n\n\n\n\n\nMEDS\n\n\n\n\n\n\n\n\n\n\n\n\nSSECR Module: Data Wrangling\n\n\n\n\n\n\nLTER\n\n\nmodule\n\n\nwebsite\n\n\ndata-harmonization\n\n\ndata-wrangling\n\n\ndata-qc\n\n\ncode-conditionals\n\n\njoins\n\n\ndata-shape\n\n\nloops\n\n\ncustom-r-functions\n\n\n\nData wrangling and harmonization for synthesis projects\n\n\n\n\n\nLTER\n\n\n\n\n\n\n\n\n\n\n\n\nCreating Functions in R\n\n\n\n\n\n\nLH\n\n\nmodule\n\n\nfunctions\n\n\ndocumenting-functions\n\n\nwriting-functions-practice\n\n\n\nSoft introduction to writing functions in R. Live coding example\n\n\n\n\n\nLearning Hub\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducibility/index.html",
+    "href": "materials/LTER-SSECR-reproducibility/index.html",
+    "title": "SSECR Module: Reproducibility",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducibility/index.html#materials",
+    "href": "materials/LTER-SSECR-reproducibility/index.html#materials",
+    "title": "SSECR Module: Reproducibility",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducibility/index.html#abstract",
+    "href": "materials/LTER-SSECR-reproducibility/index.html#abstract",
+    "title": "SSECR Module: Reproducibility",
+    "section": "Abstract",
+    "text": "Abstract\nAs we set out to engage with the synthesis skills this course aims to offer, it will be helpful to begin with a careful consideration of “reproducibility.” Because synthesis projects draw data from many sources and typically involve many researchers working in concert, reproducibility is particularly important. In individual projects, adhering to reproducibility best practices is certainly a good goal but failing to do so for synthesis projects can severely limit the work in a more significant way than for those individual projects. “Reproducibility” is a wide sphere encompassing many different–albeit related–topics so it can be challenging to feel well-equipped to evaluate how well we are following these guidelines in our own work. In this module, we will cover a few fundamental facets of reproducibility and point to some considerations that may encourage you to push yourself to elevate your practices to the next level."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-analysis-modeling/index.html",
+    "href": "materials/LTER-SSECR-analysis-modeling/index.html",
+    "title": "SSECR Module: Analysis & Modeling",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-analysis-modeling/index.html#materials",
+    "href": "materials/LTER-SSECR-analysis-modeling/index.html#materials",
+    "title": "SSECR Module: Analysis & Modeling",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-analysis-modeling/index.html#abstract",
+    "href": "materials/LTER-SSECR-analysis-modeling/index.html#abstract",
+    "title": "SSECR Module: Analysis & Modeling",
+    "section": "Abstract",
+    "text": "Abstract\nGiven the wide range in statistical training in graduate curricula (and corresponding breadth of experience among early career researchers), we’ll be approaching this module by splitting it into two halves.\n\nFirst half: a “flipped approach” where project teams will share their proposed analyses with one another\nSecond half: typical instructional module dedicated to analyses that are more common in–or exclusive to–synthesis research.\n\nContent produced by project teams during the flipped half may be linked in the ‘Additional Resources’ section at the bottom of this module at the discretion of each team. Otherwise the content of this module will focus only on the non-flipped content."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-interactivity/index.html",
+    "href": "materials/LTER-SSECR-interactivity/index.html",
+    "title": "SSECR Module: Interactivity",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-interactivity/index.html#materials",
+    "href": "materials/LTER-SSECR-interactivity/index.html#materials",
+    "title": "SSECR Module: Interactivity",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-interactivity/index.html#abstract",
+    "href": "materials/LTER-SSECR-interactivity/index.html#abstract",
+    "title": "SSECR Module: Interactivity",
+    "section": "Abstract",
+    "text": "Abstract\nShiny is a popular tool that allows users to build interactive web applications without the normally pre-requisite web development expertise. In addition to Shiny apps being simpler to build for the programmer they are often used to allow visitors to perform coding tasks without ever actually writing code. These are huge advantages because they reduce or eliminate significant technical barriers in developing truly interactive applications.\nIn synthesis contexts, Shiny can be used for a variety of valuable purposes. You can use it to develop dashboards for sharing data with related communities, allow your team to quickly “play with” exploratory graphs, or even to create a data submission portal (as is the case with some Research Coordination Networks or “RCNs”).\nNote that Shiny can be built in either R or Python ‘under the hood’ but for the purposes of this module we’ll focus on R."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-spatial-data/index.html",
+    "href": "materials/LTER-SSECR-spatial-data/index.html",
+    "title": "SSECR Module: Spatial Data",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-spatial-data/index.html#materials",
+    "href": "materials/LTER-SSECR-spatial-data/index.html#materials",
+    "title": "SSECR Module: Spatial Data",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-spatial-data/index.html#abstract",
+    "href": "materials/LTER-SSECR-spatial-data/index.html#abstract",
+    "title": "SSECR Module: Spatial Data",
+    "section": "Abstract",
+    "text": "Abstract\nSynthesis projects often have need of spatial datasets. At its simplest, it can be helpful to have a map of the original project locations including in the synthesis dataset. In more complex instances you want to extract spatial data within a certain area of sampling locations. Regardless of ‘why’ you’re using spatial data, it may come up during your primary or synthesis work and thus deserves consideration in this course’s materials. There are many modes of working with spatial data, and not all of these tools require coding literacy but for consistency with the rest of the modules this module will focus on scripted approaches to interacting with spatial data."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-discovery/index.html",
+    "href": "materials/LTER-SSECR-data-discovery/index.html",
+    "title": "SSECR Module: Data Discovery & Management",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-discovery/index.html#materials",
+    "href": "materials/LTER-SSECR-data-discovery/index.html#materials",
+    "title": "SSECR Module: Data Discovery & Management",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-discovery/index.html#abstract",
+    "href": "materials/LTER-SSECR-data-discovery/index.html#abstract",
+    "title": "SSECR Module: Data Discovery & Management",
+    "section": "Abstract",
+    "text": "Abstract\nSynthesis projects often begin with a few datasets that inspire the questions–and end up incorporating dozens or hundreds of others. Researchers may seek out data that resemble their initial datasets, but come from other climates, ecosystems, or cultural settings. Or they may find that they need data of a completely different kind to establish drivers and context. The best synthesizers are resourceful in their search for data, cautious in evaluating data quality and relevance, and meticulous in documenting data sources, treatments, and related analytical decisions. In this workshop, we will cover all these aspects in enough depth for participants to begin finding and assessing their own project data."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducible-reports/index.html",
+    "href": "materials/LTER-SSECR-reproducible-reports/index.html",
+    "title": "SSECR Module: Reproducible Reports",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducible-reports/index.html#materials",
+    "href": "materials/LTER-SSECR-reproducible-reports/index.html#materials",
+    "title": "SSECR Module: Reproducible Reports",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-reproducible-reports/index.html#abstract",
+    "href": "materials/LTER-SSECR-reproducible-reports/index.html#abstract",
+    "title": "SSECR Module: Reproducible Reports",
+    "section": "Abstract",
+    "text": "Abstract\nAt this point in the course, we anticipate that you’re likely approaching the end of your team’s synthesis project (see our suggested milestones page for more information). As the end of your project and the course as a whole nears, it might be valuable for your group to consider how you can reproducibly document all of the work you’ve been doing for the last several months. “Computational notebooks” (e.g., Quarto documents, Jupyter Notebooks, R Markdown files, etc.) can be a reproducible way of documenting your results in a format that allows you to leverage both your technical skills and your scientific communication skills.\nThis module focuses on the structure and content of these notebooks from a primarily technical lens, so please consult the communicating findings module for the team science perspective."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-visualization/index.html",
+    "href": "materials/LTER-SSECR-data-visualization/index.html",
+    "title": "SSECR Module: Data Visualization",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-visualization/index.html#materials",
+    "href": "materials/LTER-SSECR-data-visualization/index.html#materials",
+    "title": "SSECR Module: Data Visualization",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-visualization/index.html#abstract",
+    "href": "materials/LTER-SSECR-data-visualization/index.html#abstract",
+    "title": "SSECR Module: Data Visualization",
+    "section": "Abstract",
+    "text": "Abstract\nData visualization is a fundamental part of working with data. Visualization can be only used in the final stages of a project to make figures for publication but it can also be hugely valuable for quality control and hypothesis development processes. This module focuses on the fundamentals of graph creation in an effort to empower you to apply those methods in the various contexts where you might find visualization to be helpful."
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-wrangling/index.html",
+    "href": "materials/LTER-SSECR-data-wrangling/index.html",
+    "title": "SSECR Module: Data Wrangling",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-wrangling/index.html#materials",
+    "href": "materials/LTER-SSECR-data-wrangling/index.html#materials",
+    "title": "SSECR Module: Data Wrangling",
+    "section": "",
+    "text": "course website &  source code"
+  },
+  {
+    "objectID": "materials/LTER-SSECR-data-wrangling/index.html#abstract",
+    "href": "materials/LTER-SSECR-data-wrangling/index.html#abstract",
+    "title": "SSECR Module: Data Wrangling",
+    "section": "Abstract",
+    "text": "Abstract\nNow that we have covered how to find data and use data visualization methods to explore it, we can move on to combining separate data files and preparing that combined data file for analysis. For the purposes of this module we’re adopting a very narrow view of harmonization and a very broad view of wrangling but this distinction aligns well with two discrete philosophical/practical arenas. To make those definitions explicit:\n\n“Harmonization” = process of combining separate primary data objects into one object. This includes things like synonymizing columns, or changing data format to support combination. This excludes quality control steps–even those that are undertaken before harmonization begins.\n“Wrangling” = all modifications to data meant to create an analysis-ready ‘tidy’ data object. This includes quality control, unit conversions, and data ‘shape’ changes to name a few. Note that attaching ancillary data to your primary data object (e.g., attaching temperature data to a dataset on plant species composition) also falls into this category!"
   }
 ]
