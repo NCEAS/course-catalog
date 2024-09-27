@@ -1,5 +1,5 @@
 ---
-title: "Intro to Shiny (EDS 430)"
+title: "Intro to Shiny (EDS 296)"
 description: "a short course on building, customizing, and deploying interactive dashboards using R `{shiny}`"
 author: "MEDS"
 #date: "2024-02-13"
@@ -12,11 +12,11 @@ categories: [MEDS, short-course, website, slides, Shiny, R]
 <br>
 
 ::: {.center-text .body-text-l}
-[{{< fa window-maximize title="a web browser" >}} course website](https://ucsb-meds.github.io/EDS-430-Intro-to-Shiny/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/UCSB-MEDS/EDS-430-Intro-to-Shiny){target="_blank"}
+[{{< fa window-maximize title="a web browser" >}} course website](https://ucsb-meds.github.io/EDS-296-Intro-to-Shiny/){target="_blank"} & [{{< fa brands github title="The GitHub octocat icon" >}} source code](https://github.com/UCSB-MEDS/EDS-296-Intro-to-Shiny){target="_blank"}
 :::
 
 ## Abstract
 
-[EDS 430 - Intro to Shiny](https://bren.ucsb.edu/courses/eds-430) is a 1-unit, 2-day, hands-on coding workshop, offered through the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/), in partnership with the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/).
+[EDS 296 - Intro to Shiny](https://bren.ucsb.edu/courses/eds-296-1f) is a 2-unit, 2-day, hands-on coding workshop, offered through the [Bren School of Environmental Science & Management](https://bren.ucsb.edu/), in partnership with the [National Center for Ecological Analysis & Synthesis](https://www.nceas.ucsb.edu/).
 
 In this workshop, students will learn how to build and deploy Shiny applications. The [`{shiny}` package](https://shiny.posit.co/) provides a framework that allows R users to build interactive web applications and dashboards, and has become a popular tool for sharing data analyses and data-derived outputs with broad audiences. In this two-part short course, students will learn the fundamentals of reactivity, how to customize an application user interface (UI), best practices and workflows for developing shiny apps, and how to deploy their apps online via RStudio’s hosting service, [shinyapps.io](https://www.shinyapps.io/).
