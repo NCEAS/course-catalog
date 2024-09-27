@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="LTER">
-<meta name="description" content="Engage with the fundamentals of R Shiny using RStudio">
+<meta name="description" content="Data wrangling and harmonization for synthesis projects">
 
-<title>Shiny Apps for Sharing Science – NCEAS Course Catalog</title>
+<title>SSECR Module: Data Wrangling – NCEAS Course Catalog</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -111,17 +111,24 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page">
-      <h1 class="title">Shiny Apps for Sharing Science</h1>
+      <h1 class="title">SSECR Module: Data Wrangling</h1>
                   <div>
         <div class="description">
-          Engage with the fundamentals of R Shiny using RStudio
+          Data wrangling and harmonization for synthesis projects
         </div>
       </div>
                           <div class="quarto-categories">
                 <div class="quarto-category">LTER</div>
                 <div class="quarto-category">module</div>
-                <div class="quarto-category">shiny</div>
-                <div class="quarto-category">R</div>
+                <div class="quarto-category">website</div>
+                <div class="quarto-category">data-harmonization</div>
+                <div class="quarto-category">data-wrangling</div>
+                <div class="quarto-category">data-qc</div>
+                <div class="quarto-category">code-conditionals</div>
+                <div class="quarto-category">joins</div>
+                <div class="quarto-category">data-shape</div>
+                <div class="quarto-category">loops</div>
+                <div class="quarto-category">custom-r-functions</div>
               </div>
                   </div>
   </div>
@@ -152,17 +159,20 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="workshop-materials" class="level2">
-<h2 class="anchored" data-anchor-id="workshop-materials">Workshop Materials</h2>
+<section id="materials" class="level2">
+<h2 class="anchored" data-anchor-id="materials">Materials</h2>
 <p><br></p>
 <div class="center-text body-text-l">
-<p><a href="https://njlyon0.github.io/asm-2022_shiny-workshop/" target="_blank"><i class="fa-solid fa-window-maximize" title="a web browser" aria-label="window-maximize"></i> course website</a> &amp; <a href="https://github.com/njlyon0/asm-2022_shiny-workshop-examples" target="_blank"><i class="fa-brands fa-github" title="The GitHub octocat icon" aria-label="github"></i> source code</a></p>
-<p><a href="https://github.com/njlyon0/asm-2022_shiny-workshop-examples" target="_blank"><i class="fa-solid fa-file-lines" title="A file with text" aria-label="file-lines"></i> example app scripts</a> &amp; <a href="https://github.com/njlyon0/asm-2022_shiny-workshop-examples" target="_blank"><i class="fa-brands fa-github" title="The GitHub octocat icon" aria-label="github"></i> example source code</a></p>
+<p><a href="https://lter.github.io/ssecr/mod_wrangle.html" target="_blank"><i class="fa-solid fa-window-maximize" title="a web browser" aria-label="window-maximize"></i> course website</a> &amp; <a href="https://github.com/lter/ssecr" target="_blank"><i class="fa-brands fa-github" title="The GitHub octocat icon" aria-label="github"></i> source code</a></p>
 </div>
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Interactive workshop on the fundamentals of R Shiny created for the 2022 LTER All Scientists’ Meeting (ASM).</p>
+<p>Now that we have covered how to find data and use data visualization methods to explore it, we can move on to combining separate data files and preparing that combined data file for analysis. For the purposes of this module we’re adopting a very narrow view of harmonization and a very broad view of wrangling but this distinction aligns well with two discrete philosophical/practical arenas. To make those definitions explicit:</p>
+<ul>
+<li><p><u>“Harmonization” = process of combining separate primary data objects into one object</u>. This includes things like synonymizing columns, or changing data format to support combination. This <em>excludes</em> quality control steps–even those that are undertaken before harmonization begins.</p></li>
+<li><p><u>“Wrangling” = all modifications to data meant to create an analysis-ready ‘tidy’ data object</u>. This includes quality control, unit conversions, and data ‘shape’ changes to name a few. Note that attaching ancillary data to your primary data object (e.g., attaching temperature data to a dataset on plant species composition) <em>also falls into this category!</em></p></li>
+</ul>
 
 
 </section>

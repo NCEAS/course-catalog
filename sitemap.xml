@@ -2,94 +2,126 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://NCEAS.github.io/course-catalog/about.html</loc>
-    <lastmod>2024-09-27T14:08:28.120Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.646Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/LH-sf-spatial-data/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.149Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.675Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-build-quarto-websites/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/LH-intro-to-r-programming/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.144Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.670Z</lastmod>
   </url>
   <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-DS-portfolios/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-clean-wangle-data/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.135Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-literate-analysis-quarto/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-google/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-data-viz/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-customizing-quarto-websites/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-tidyverse/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-github/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-r-creating-packages/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-collab-merge-conflict/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.137Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-github-publishing-analysis/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.138Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-and-github-intro/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.136Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/LH-r-creating-functions/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.146Z</lastmod>
-  </url>
-  <url>
-    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-shiny/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-data-visualization/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/LH-visualization-ggplot-leaflet/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-interactivity/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-literate-analysis-quarto/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-google/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-data-viz/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-customizing-quarto-websites/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-spatial-data/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-tidyverse/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-reproducible-reports/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-analysis-modeling/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-github/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-data-wrangling/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-reproducibility/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-r-creating-packages/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LTER-SSECR-data-discovery/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.679Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-collab-merge-conflict/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.663Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-github-publishing-analysis/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.664Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-git-and-github-intro/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.662Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-r-creating-functions/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.672Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-shiny/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/LH-clean-wangle-data/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.661Z</lastmod>
+  </url>
+  <url>
+    <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-DS-portfolios/index.html</loc>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-keyboard-shortcuts/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/MEDS-quarto-blogs/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.154Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/materials/LTER-shiny/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.153Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.680Z</lastmod>
   </url>
   <url>
     <loc>https://NCEAS.github.io/course-catalog/index.html</loc>
-    <lastmod>2024-09-27T14:08:28.135Z</lastmod>
+    <lastmod>2024-09-27T20:22:15.661Z</lastmod>
   </url>
 </urlset>
